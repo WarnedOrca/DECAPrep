@@ -5,6 +5,7 @@ import PerformanceDatabase from './pages/PerformanceDatabase';
 import ExamSimulation from './pages/ExamSimulation';
 import DecaCoachAi from './pages/DecaCoachAi';
 import './index.css';
+import './App.css';
 
 function App() {
   return (

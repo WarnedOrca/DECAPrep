@@ -1,255 +1,415 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { examQuestions } from '../data/mockData';
 
+const EXAM_MODES = {
+  practice: 'practice',
+  official: 'official',
+};
+
 export default function ExamSimulation() {
+  const [mode, setMode] = useState(EXAM_MODES.practice);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState({});
-  const [timeLeft, setTimeLeft] = useState(3522); // 58:42 in seconds
+  const [revealedAnswers, setRevealedAnswers] = useState({});
+  const [timeLeft, setTimeLeft] = useState(3522);
   const [isSubmitted, setIsSubmitted] = useState(false);
 
   const currentQ = examQuestions[currentIdx];
+  const currentSelection = selectedAnswers[currentIdx];
+  const answerRevealed = Boolean(revealedAnswers[currentIdx]);
+  const isPracticeMode = mode === EXAM_MODES.practice;
 
   useEffect(() => {
-    if (timeLeft > 0 && !isSubmitted) {
-      const timer = setInterval(() => setTimeLeft(t => t - 1), 1000);
+    if (mode === EXAM_MODES.official && timeLeft > 0 && !isSubmitted) {
+      const timer = setInterval(() => setTimeLeft((t) => t - 1), 1000);
       return () => clearInterval(timer);
     }
-  }, [timeLeft, isSubmitted]);
+  }, [isSubmitted, mode, timeLeft]);
 
   const formatTime = (seconds) => {
-    const m = Math.floor(seconds / 60).toString().padStart(2, '0');
+    const m = Math.floor(seconds / 60)
+      .toString()
+      .padStart(2, '0');
     const s = (seconds % 60).toString().padStart(2, '0');
     return `${m}:${s}`;
   };
 
+  const resetSession = (nextMode = mode) => {
+    setMode(nextMode);
+    setCurrentIdx(0);
+    setSelectedAnswers({});
+    setRevealedAnswers({});
+    setIsSubmitted(false);
+    setTimeLeft(3522);
+  };
+
+  const handleModeChange = (nextMode) => {
+    if (nextMode !== mode) {
+      resetSession(nextMode);
+    }
+  };
+
   const handleSelectOption = (key) => {
-    if (!isSubmitted) {
-      setSelectedAnswers(prev => ({ ...prev, [currentIdx]: key }));
+    if (isSubmitted || answerRevealed) return;
+
+    setSelectedAnswers((prev) => ({ ...prev, [currentIdx]: key }));
+
+    if (isPracticeMode && key !== currentQ.correctAnswer) {
+      setRevealedAnswers((prev) => ({ ...prev, [currentIdx]: true }));
     }
   };
 
-  const handleNext = () => {
-    if (currentIdx < examQuestions.length - 1) {
-      setCurrentIdx(currentIdx + 1);
-    }
-  };
-
-  const handlePrev = () => {
-    if (currentIdx > 0) {
-      setCurrentIdx(currentIdx - 1);
-    }
+  const revealPracticeAnswer = () => {
+    if (!currentSelection) return;
+    setRevealedAnswers((prev) => ({ ...prev, [currentIdx]: true }));
   };
 
   const calculateScore = () => {
     let score = 0;
     examQuestions.forEach((q, idx) => {
       if (selectedAnswers[idx] === q.correctAnswer) {
-        score++;
+        score += 1;
       }
     });
     return Math.round((score / examQuestions.length) * 100);
   };
 
+  const getOptionState = (key) => {
+    const isSelected = currentSelection === key;
+    const isCorrect = key === currentQ.correctAnswer;
+
+    if (isPracticeMode && answerRevealed) {
+      if (isCorrect) {
+        return {
+          boxStyles: 'border-green-500 bg-green-50',
+          textStyles: 'font-bold text-green-900',
+          iconStyles: 'border-2 border-green-500 text-green-600 bg-green-100',
+        };
+      }
+
+      if (isSelected) {
+        return {
+          boxStyles: 'border-red-500 bg-red-50',
+          textStyles: 'font-bold text-red-900',
+          iconStyles: 'border-2 border-red-500 text-red-600 bg-red-100',
+        };
+      }
+
+      return {
+        boxStyles: 'border-slate-200 bg-white/70 opacity-70',
+        textStyles: 'font-medium text-slate-700',
+        iconStyles: 'border-slate-300 text-slate-400',
+      };
+    }
+
+    if (isSubmitted) {
+      if (isSelected && isCorrect) {
+        return {
+          boxStyles: 'border-green-500 bg-green-50',
+          textStyles: 'font-bold text-green-900',
+          iconStyles: 'border-2 border-green-500 text-green-600 bg-green-100',
+        };
+      }
+
+      if (isSelected && !isCorrect) {
+        return {
+          boxStyles: 'border-red-500 bg-red-50',
+          textStyles: 'font-bold text-red-900',
+          iconStyles: 'border-2 border-red-500 text-red-600 bg-red-100',
+        };
+      }
+
+      if (isCorrect) {
+        return {
+          boxStyles: 'border-green-500 bg-green-50/70',
+          textStyles: 'font-bold text-green-800',
+          iconStyles: 'border border-green-500 text-green-600',
+        };
+      }
+    }
+
+    if (isSelected) {
+      return {
+        boxStyles: 'border-primary bg-primary/5',
+        textStyles: 'font-bold text-slate-950',
+        iconStyles: 'border-2 border-primary text-primary bg-white',
+      };
+    }
+
+    return {
+      boxStyles: 'border-slate-200 bg-white hover:border-primary/40 hover:bg-primary/5',
+      textStyles: 'font-medium text-slate-800',
+      iconStyles: 'border-slate-300 text-slate-400',
+    };
+  };
+
   return (
-    <>
-      <main className="flex-1 overflow-y-auto bg-surface-container-low p-8 relative lg:ml-64">
-        <div className="max-w-4xl mx-auto space-y-8 pr-0 xl:pr-80 pb-20">
-          
-          {/* Progress Header */}
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
-            <div>
-              <h2 className="text-2xl font-extrabold text-on-surface tracking-tight font-headline">Question {currentIdx + 1} of {examQuestions.length}</h2>
-              <div className="flex items-center gap-2 mt-2">
-                <span className="text-xs font-semibold text-primary uppercase tracking-widest">{currentQ.indicator}</span>
-                <span className="w-1 h-1 bg-slate-400 rounded-full"></span>
-                <span className="text-xs font-semibold text-slate-500 uppercase tracking-widest">Section: {currentQ.section}</span>
-              </div>
-            </div>
-            <div className="flex items-center gap-3">
-              <button disabled={isSubmitted} className="flex items-center gap-2 px-4 py-2 bg-surface-container-highest text-on-surface-variant font-semibold rounded-lg hover:bg-slate-200 transition-colors text-sm disabled:opacity-50 disabled:cursor-not-allowed">
-                <span className="material-symbols-outlined text-[20px]">flag</span>
-                Flag for Review
-              </button>
-            </div>
+    <main className="page-shell px-4 pb-24 pt-8 md:px-8 lg:ml-72 lg:px-10">
+      <div className="content-wrap">
+        <section className="mb-6 flex flex-col gap-6 xl:flex-row xl:items-end xl:justify-between">
+          <div className="max-w-3xl">
+            <span className="eyebrow mb-3 block">Exam Lab</span>
+            <h1 className="font-headline text-4xl font-extrabold tracking-tight text-slate-950 md:text-5xl">
+              Practice with guidance or run the official-style timed version.
+            </h1>
+            <p className="mt-4 text-base leading-7 text-slate-600 md:text-lg">
+              Practice mode explains mistakes as you go. Official mode removes AI help and runs as a timed exam.
+            </p>
           </div>
 
-          {/* Exam Content (Question Card) */}
-          <div className="bg-surface-container-lowest p-6 md:p-10 text-pretty rounded-xl shadow-sm border border-transparent">
-            {isSubmitted && (
-              <div className={`mb-6 p-4 rounded-lg font-bold border-l-4 ${selectedAnswers[currentIdx] === currentQ.correctAnswer ? 'bg-green-50 border-green-500 text-green-800' : 'bg-red-50 border-red-500 text-red-800'}`}>
-                {selectedAnswers[currentIdx] === currentQ.correctAnswer ? "Correct!" : `Incorrect. The correct answer was ${currentQ.correctAnswer}.`}
-              </div>
-            )}
-            <h3 className="text-xl font-medium text-on-surface leading-relaxed mb-10 max-w-3xl font-body">
-              {currentQ.question}
-            </h3>
-            
-            <div className="space-y-4">
-              {/* Options */}
-              {Object.entries(currentQ.options).map(([key, value]) => {
-                const isSelected = selectedAnswers[currentIdx] === key;
-                const isCorrect = key === currentQ.correctAnswer;
-                
-                let boxStyles = "border-slate-100 hover:border-primary/50 hover:bg-primary/5";
-                let textStyles = "font-medium text-on-surface";
-                let iconStyles = "border-slate-300 text-slate-400 group-hover:border-primary group-hover:text-primary";
-                
-                if (isSelected && !isSubmitted) {
-                  boxStyles = "border-primary bg-primary/5";
-                  textStyles = "font-bold text-on-surface";
-                  iconStyles = "border-primary text-primary border-2";
-                } else if (isSubmitted) {
-                  if (isSelected && isCorrect) {
-                    boxStyles = "border-green-500 bg-green-50";
-                    textStyles = "font-bold text-green-900";
-                    iconStyles = "border-green-500 text-green-600 bg-green-100 font-bold border-2";
-                  } else if (isSelected && !isCorrect) {
-                     boxStyles = "border-red-500 bg-red-50";
-                     textStyles = "font-bold text-red-900";
-                     iconStyles = "border-red-500 text-red-600 bg-red-100 font-bold border-2";
-                  } else if (isCorrect) {
-                     boxStyles = "border-green-500 bg-green-50/50";
-                     textStyles = "font-bold text-green-800";
-                     iconStyles = "border-green-500 text-green-600";
-                  } else {
-                     boxStyles = "border-slate-100 opacity-50";
-                  }
-                }
-
-                return (
-                  <div 
-                    key={key}
-                    onClick={() => handleSelectOption(key)}
-                    className={`group relative flex items-center p-5 rounded-lg border-2 transition-all ${isSubmitted ? 'cursor-default' : 'cursor-pointer'} ${boxStyles}`}
-                  >
-                    <div className={`w-8 h-8 rounded flex flex-shrink-0 items-center justify-center font-bold mr-5 shrink-0 ${iconStyles}`}>
-                      {key}
-                    </div>
-                    <p className={textStyles}>{value}</p>
-                    
-                    {isSelected && !isSubmitted && (
-                      <span className="absolute right-5 material-symbols-outlined text-primary" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span>
-                    )}
-                    {isSubmitted && isCorrect && (
-                      <span className="absolute right-5 material-symbols-outlined text-green-500" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span>
-                    )}
-                    {isSubmitted && isSelected && !isCorrect && (
-                      <span className="absolute right-5 material-symbols-outlined text-red-500" style={{ fontVariationSettings: "'FILL' 1" }}>cancel</span>
-                    )}
-                  </div>
-                );
-              })}
-            </div>
+          <div className="flex flex-wrap gap-3">
+            <Link className="btn-secondary text-sm" to="/database">
+              Review indicators
+            </Link>
           </div>
+        </section>
 
-          {/* Navigation Controls */}
-          <div className="flex flex-col-reverse md:flex-row items-center justify-between pt-4 gap-4">
-            <button 
-              onClick={handlePrev}
-              disabled={currentIdx === 0}
-              className="w-full md:w-auto px-6 py-2.5 bg-surface-container-high text-on-surface font-bold rounded-lg hover:bg-surface-dim transition-all flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+        <section className="surface-card mb-6 rounded-[1.75rem] p-3 md:p-4">
+          <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
+            <button
+              className={`rounded-[1.35rem] border px-5 py-5 text-left transition ${
+                isPracticeMode ? 'border-primary bg-primary/8 shadow-sm' : 'border-slate-200 bg-white/70'
+              }`}
+              onClick={() => handleModeChange(EXAM_MODES.practice)}
+              type="button"
             >
-              <span className="material-symbols-outlined">arrow_back</span>
-              Previous Question
+              <div className="flex items-center justify-between gap-3">
+                <div>
+                  <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-slate-400">Mode</p>
+                  <h2 className="mt-1 font-headline text-2xl font-extrabold text-slate-950">Practice</h2>
+                </div>
+                <span className="material-symbols-outlined text-primary">school</span>
+              </div>
+              <p className="mt-3 text-sm leading-7 text-slate-600">
+                Untimed flow. If you miss a question, the AI coach explains why the correct answer works before you move on.
+              </p>
             </button>
-            <div className="flex items-center justify-between w-full md:w-auto gap-4">
-              <div className="flex gap-1.5 hidden md:flex">
+
+            <button
+              className={`rounded-[1.35rem] border px-5 py-5 text-left transition ${
+                !isPracticeMode ? 'border-primary bg-primary/8 shadow-sm' : 'border-slate-200 bg-white/70'
+              }`}
+              onClick={() => handleModeChange(EXAM_MODES.official)}
+              type="button"
+            >
+              <div className="flex items-center justify-between gap-3">
+                <div>
+                  <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-slate-400">Mode</p>
+                  <h2 className="mt-1 font-headline text-2xl font-extrabold text-slate-950">Official</h2>
+                </div>
+                <span className="material-symbols-outlined text-primary">timer</span>
+              </div>
+              <p className="mt-3 text-sm leading-7 text-slate-600">
+                Timed simulation. No AI hints, no instant explanations, and scoring only appears after you submit.
+              </p>
+            </button>
+          </div>
+        </section>
+
+        <div className="grid grid-cols-1 gap-6 xl:grid-cols-[minmax(0,1fr)_19rem]">
+          <section className="surface-card rounded-[1.75rem] p-6 md:p-8">
+            <div className="mb-8 flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+              <div>
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="rounded-full bg-primary/10 px-3 py-1 text-xs font-bold uppercase tracking-[0.16em] text-primary">
+                    {isPracticeMode ? 'Practice Mode' : 'Official Mode'}
+                  </span>
+                  {isPracticeMode ? (
+                    <span className="rounded-full bg-tertiary/10 px-3 py-1 text-xs font-bold uppercase tracking-[0.16em] text-tertiary">
+                      AI feedback enabled
+                    </span>
+                  ) : null}
+                </div>
+
+                <h2 className="mt-3 font-headline text-3xl font-extrabold text-slate-950">
+                  Question {currentIdx + 1} of {examQuestions.length}
+                </h2>
+                <div className="mt-3 flex flex-wrap items-center gap-2">
+                  <span className="rounded-full bg-primary/10 px-3 py-1 text-xs font-bold uppercase tracking-[0.16em] text-primary">
+                    {currentQ.indicator}
+                  </span>
+                  <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-bold uppercase tracking-[0.16em] text-slate-500">
+                    Section: {currentQ.section}
+                  </span>
+                </div>
+              </div>
+
+              <div className="surface-panel rounded-[1.25rem] px-4 py-3 text-center">
+                <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-slate-400">
+                  {isPracticeMode ? 'Pace' : 'Time Remaining'}
+                </p>
+                <p className="mt-1 font-headline text-3xl font-extrabold text-slate-950 tabular-nums">
+                  {isPracticeMode ? 'Untimed' : formatTime(timeLeft)}
+                </p>
+              </div>
+            </div>
+
+            <div className="surface-panel rounded-[1.5rem] p-6 md:p-8">
+              {!isPracticeMode && isSubmitted ? (
+                <div
+                  className={`mb-6 rounded-[1.1rem] border-l-4 px-4 py-3 font-bold ${
+                    currentSelection === currentQ.correctAnswer
+                      ? 'border-green-500 bg-green-50 text-green-800'
+                      : 'border-red-500 bg-red-50 text-red-800'
+                  }`}
+                >
+                  {currentSelection === currentQ.correctAnswer
+                    ? 'Correct!'
+                    : `Incorrect. The correct answer was ${currentQ.correctAnswer}.`}
+                </div>
+              ) : null}
+
+              <h3 className="max-w-3xl text-xl font-medium leading-9 text-slate-900 md:text-2xl">{currentQ.question}</h3>
+
+              <div className="mt-8 space-y-4">
+                {Object.entries(currentQ.options).map(([key, value]) => {
+                  const optionState = getOptionState(key);
+
+                  return (
+                    <button
+                      key={key}
+                      className={`flex w-full items-center gap-4 rounded-[1.25rem] border-2 p-5 text-left transition ${optionState.boxStyles}`}
+                      disabled={isSubmitted || answerRevealed}
+                      onClick={() => handleSelectOption(key)}
+                      type="button"
+                    >
+                      <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-xl font-bold ${optionState.iconStyles}`}>
+                        {key}
+                      </span>
+                      <span className={optionState.textStyles}>{value}</span>
+                    </button>
+                  );
+                })}
+              </div>
+
+              {isPracticeMode && answerRevealed ? (
+                <div className="mt-6 rounded-[1.25rem] border border-primary/20 bg-primary/5 p-5">
+                  <div className="mb-2 flex items-center gap-2 text-primary">
+                    <span className="material-symbols-outlined">smart_toy</span>
+                    <p className="text-sm font-bold uppercase tracking-[0.16em]">AI Coach Explanation</p>
+                  </div>
+                  <p className="text-sm leading-7 text-slate-700">{currentQ.explanation}</p>
+                </div>
+              ) : null}
+            </div>
+
+            <div className="mt-6 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+              <button
+                className="btn-secondary text-sm disabled:cursor-not-allowed disabled:opacity-50"
+                disabled={currentIdx === 0}
+                onClick={() => setCurrentIdx((idx) => idx - 1)}
+                type="button"
+              >
+                <span className="material-symbols-outlined text-sm">arrow_back</span>
+                Previous
+              </button>
+
+              <div className="hidden gap-2 md:flex">
                 {examQuestions.map((_, idx) => (
-                  <div key={idx} className={`w-2 h-2 rounded-full ${idx === currentIdx ? 'bg-primary' : 'bg-primary/30'}`}></div>
+                  <button
+                    key={idx}
+                    className={`h-3 w-3 rounded-full transition ${idx === currentIdx ? 'bg-primary' : 'bg-primary/20'}`}
+                    onClick={() => setCurrentIdx(idx)}
+                    type="button"
+                  />
                 ))}
               </div>
-              <button 
-                onClick={handleNext}
-                disabled={currentIdx === examQuestions.length - 1}
-                className="w-full md:w-auto px-8 py-3 bg-gradient-to-br from-primary to-primary-container text-white font-bold rounded-lg shadow-md hover:opacity-90 active:scale-[0.98] transition-all flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                Next Question
-                <span className="material-symbols-outlined">arrow_forward</span>
-              </button>
-            </div>
-          </div>
-        </div>
 
-        {/* Bento Sidebar (Floating Desktop Controls) */}
-        <div className="fixed right-8 top-32 w-72 hidden xl:flex flex-col gap-6">
-          
-          {/* Status Card */}
-          <div className="bg-surface-container-lowest p-6 rounded-xl shadow-sm border border-slate-200/50">
-            <h4 className="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">Exam Summary</h4>
-            <div className="flex flex-wrap gap-2">
-              {/* Quick Question Grid */}
-              {examQuestions.map((_, idx) => {
-                const answered = !!selectedAnswers[idx];
-                const active = idx === currentIdx;
-                
-                let styles = "bg-slate-100 text-slate-400";
-                
-                if (isSubmitted) {
-                    if (selectedAnswers[idx] === examQuestions[idx].correctAnswer) {
-                        styles = "bg-green-500 text-white";
-                    } else {
-                        styles = "bg-red-500 text-white";
-                    }
-                } else if (active) {
-                    styles = "border border-primary/30 bg-primary/5 text-primary";
-                } else if (answered) {
-                    styles = "bg-primary text-white";
-                }
-
-                return (
-                  <button 
-                    key={idx}
-                    onClick={() => setCurrentIdx(idx)}
-                    className={`w-8 h-8 rounded text-[10px] flex shrink-0 items-center justify-center font-bold ${styles} hover:opacity-80 transition-opacity`}
-                  >
-                    {idx + 1}
+              <div className="flex w-full flex-col gap-3 md:w-auto md:flex-row">
+                {isPracticeMode && currentSelection && !answerRevealed ? (
+                  <button className="btn-secondary text-sm" onClick={revealPracticeAnswer} type="button">
+                    Check Answer
                   </button>
-                );
-              })}
-            </div>
-            <p className="mt-4 text-[11px] text-slate-400 text-center font-medium">Viewing {currentIdx + 1} of {examQuestions.length} questions</p>
-          </div>
+                ) : null}
 
-          {/* Submit Card */}
-          <div className="bg-surface-container-lowest p-6 rounded-xl shadow-sm border border-slate-200/50">
-            {isSubmitted ? (
-              <div className="text-center mb-0">
-                <span className="text-sm text-slate-500 block mb-1">Final Score</span>
-                <span className="text-4xl font-extrabold font-headline text-primary tabular-nums">{calculateScore()}%</span>
-                <button 
-                  onClick={() => {
-                    setIsSubmitted(false);
-                    setSelectedAnswers({});
-                    setCurrentIdx(0);
-                    setTimeLeft(3522);
-                  }}
-                  className="mt-6 w-full py-3 bg-primary text-white font-bold rounded-lg hover:bg-opacity-90 transition-colors shadow-sm"
+                <button
+                  className="btn-primary text-sm disabled:cursor-not-allowed disabled:opacity-50"
+                  disabled={currentIdx === examQuestions.length - 1}
+                  onClick={() => setCurrentIdx((idx) => idx + 1)}
+                  type="button"
                 >
-                  Restart Exam
+                  Next
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
                 </button>
               </div>
-            ) : (
-              <>
-                <div className="text-center mb-6">
-                  <span className="text-sm text-slate-500 block mb-1">Time Remaining</span>
-                  <span className="text-3xl font-extrabold font-headline text-on-surface tabular-nums">{formatTime(timeLeft)}</span>
-                </div>
-                <button 
-                  onClick={() => setIsSubmitted(true)}
-                  disabled={Object.keys(selectedAnswers).length === 0}
-                  className="w-full py-4 bg-tertiary text-white font-bold rounded-lg hover:bg-on-tertiary-fixed-variant transition-colors shadow-lg shadow-tertiary/20 disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  Submit Exam
-                </button>
-                <p className="mt-3 text-[10px] text-slate-400 text-center leading-relaxed">
-                  By clicking submit, you confirm that you have completed all relevant questions.
-                </p>
-              </>
-            )}
-          </div>
+            </div>
+          </section>
 
+          <aside className="space-y-6">
+            <section className="surface-card rounded-[1.75rem] p-6">
+              <p className="eyebrow mb-4">{isPracticeMode ? 'Practice Progress' : 'Exam Summary'}</p>
+              <div className="flex flex-wrap gap-2">
+                {examQuestions.map((q, idx) => {
+                  const answered = Boolean(selectedAnswers[idx]);
+                  const revealed = Boolean(revealedAnswers[idx]);
+                  const active = idx === currentIdx;
+
+                  let styles = 'bg-slate-100 text-slate-400';
+
+                  if (!isPracticeMode && isSubmitted) {
+                    styles =
+                      selectedAnswers[idx] === q.correctAnswer ? 'bg-green-500 text-white' : 'bg-red-500 text-white';
+                  } else if (active) {
+                    styles = 'bg-primary text-white';
+                  } else if (isPracticeMode && revealed) {
+                    styles =
+                      selectedAnswers[idx] === q.correctAnswer ? 'bg-green-500 text-white' : 'bg-amber-500 text-white';
+                  } else if (answered) {
+                    styles = 'bg-primary/10 text-primary';
+                  }
+
+                  return (
+                    <button
+                      key={idx}
+                      className={`flex h-10 w-10 items-center justify-center rounded-xl text-sm font-bold transition ${styles}`}
+                      onClick={() => setCurrentIdx(idx)}
+                      type="button"
+                    >
+                      {idx + 1}
+                    </button>
+                  );
+                })}
+              </div>
+            </section>
+
+            <section className="surface-card rounded-[1.75rem] p-6">
+              {isPracticeMode ? (
+                <>
+                  <p className="text-sm leading-7 text-slate-600">
+                    Practice mode gives you immediate coaching after a missed question, so you can learn the pattern before moving on.
+                  </p>
+                  <button className="btn-primary mt-6 w-full text-sm" onClick={() => resetSession(EXAM_MODES.practice)} type="button">
+                    Restart Practice
+                  </button>
+                </>
+              ) : isSubmitted ? (
+                <div className="text-center">
+                  <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-slate-400">Final Score</p>
+                  <p className="mt-2 font-headline text-5xl font-extrabold text-primary">{calculateScore()}%</p>
+                  <button className="btn-primary mt-6 w-full text-sm" onClick={() => resetSession(EXAM_MODES.official)} type="button">
+                    Restart Official Exam
+                  </button>
+                </div>
+              ) : (
+                <>
+                  <p className="text-sm leading-7 text-slate-600">
+                    Official mode stays locked down. No AI hints, no answer explanations, and scoring only appears after submission.
+                  </p>
+                  <button
+                    className="mt-6 w-full rounded-full bg-tertiary px-4 py-3 text-sm font-bold text-white shadow-lg shadow-tertiary/20 transition hover:opacity-92 disabled:cursor-not-allowed disabled:opacity-50"
+                    disabled={Object.keys(selectedAnswers).length === 0}
+                    onClick={() => setIsSubmitted(true)}
+                    type="button"
+                  >
+                    Submit Official Exam
+                  </button>
+                </>
+              )}
+            </section>
+          </aside>
         </div>
-      </main>
-    </>
+      </div>
+    </main>
   );
 }

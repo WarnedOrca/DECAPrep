@@ -74,7 +74,9 @@ export const examQuestions = [
       C: 'To create and execute national advertising campaigns that focus on brand awareness for consumer packaged goods.',
       D: 'To act as a legal intermediary ensuring that all local government tariffs and international trade laws are strictly adhered to.'
     },
-    correctAnswer: 'B'
+    correctAnswer: 'B',
+    explanation:
+      'A wholesaler adds value by managing inventory volume and shipment efficiency between producers and smaller buyers. That makes option B correct because it focuses on breaking bulk and reducing logistics friction.'
   },
   {
     id: 2,
@@ -87,7 +89,9 @@ export const examQuestions = [
       C: 'A significant accumulation of inventory.',
       D: 'Issuing long-term bonds to pay off short-term liabilities.'
     },
-    correctAnswer: 'C'
+    correctAnswer: 'C',
+    explanation:
+      'The current ratio includes inventory, but the quick ratio does not. If inventory grows a lot, the current ratio can rise while the quick ratio falls or lags, which points to option C.'
   },
   {
     id: 3,
@@ -100,7 +104,9 @@ export const examQuestions = [
       C: 'Respectfully expressing your needs and boundaries without violating those of others.',
       D: 'Admitting fault in all conflict scenarios to maintain harmony.'
     },
-    correctAnswer: 'C'
+    correctAnswer: 'C',
+    explanation:
+      'Assertiveness is balanced communication. It is not aggression or avoidance, so the best answer is C because it protects both your needs and the other person’s boundaries.'
   }
 ];
 
