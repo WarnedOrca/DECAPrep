@@ -1,4 +1,4 @@
-# 🚀 DecaPrep AI
+# DecaPrep AI
 
 > Master DECA competitions with AI-powered practice, real exam simulations, and personalized coaching.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -19,28 +19,28 @@
 
 ---
 
-## 🎯 About
+## About
 
 **DecaPrep AI** is an intelligent study platform built specifically for DECA members. Whether you're preparing for written exams, case studies, or roleplay events, DecaPrep AI provides personalized practice tools, real-time feedback, and AI-powered coaching to help you excel.
 
 ### Why DecaPrep AI?
 
-- ⚡ **Efficient Learning** – Focus on what you need to master
-- 🎓 **Competition-Ready** – Practice with authentic exam formats
-- 📊 **Data-Driven Progress** – Track improvement over time
-- 🤖 **AI Coach** – Get instant explanations and personalized guidance
+-  **Efficient Learning** – Focus on what you need to master
+-  **Competition-Ready** – Practice with authentic exam formats
+-  **Data-Driven Progress** – Track improvement over time
+-  **AI Coach** – Get instant explanations and personalized guidance
 
 ---
 
-## ✨ Features
+## Features
 
-### 📚 **Performance Indicator Mastery**
+### **Performance Indicator Mastery**
 - Comprehensive database of DECA Performance Indicators (PIs)
 - Filter by career cluster, event type, and topic
 - Targeted practice focusing on your weak areas
 - Detailed explanations for each indicator
 
-### 🧠 **Smart Study Tools**
+### **Smart Study Tools**
 | Tool | Description |
 |------|-------------|
 | **Flashcards** | Definition-based and scenario-focused cards with spaced repetition |
@@ -48,21 +48,21 @@
 | **Interactive Explanations** | Learn from detailed answer breakdowns |
 | **Progress Tracking** | Watch your mastery level increase |
 
-### 🧪 **Realistic Exam Simulations**
+### **Realistic Exam Simulations**
 - Generate full-length practice exams (10, 25, 50, or 100 questions)
 - **Timed mode** – Simulate actual competition conditions
 - **Instant feedback** – Review answers immediately after completion
 - **Performance analytics** – See your strengths and improvement areas
 - **Topic breakdown** – Identify which areas need more practice
 
-### 🤖 **AI Coach**
+### **AI Coach**
 - Ask questions about any DECA concept
 - Get real-time explanations for difficult topics
 - Practice scenario-based questions with feedback
 - Receive personalized study recommendations
 - Learn from mistakes with targeted guidance
 
-### 📊 **Advanced Dashboard**
+### **Advanced Dashboard**
 - Real-time progress visualization
 - Performance heatmaps by topic
 - Study streak tracking
@@ -71,7 +71,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework:** Next.js 14+ / React 18+
@@ -96,7 +96,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ and npm/yarn
@@ -135,7 +135,7 @@ npm test         # Run test suite
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 deca-prep-ai/
@@ -154,16 +154,16 @@ deca-prep-ai/
 
 ---
 
-## 👥 User Roles
+## User Roles
 
-### 👨‍🎓 Students
+### Students
 - Access all study tools (flashcards, quizzes, exams)
 - Track personal progress and performance
 - Receive AI-powered study recommendations
 - Practice specific topics or take full exams
 - Save bookmarks and favorite study sets
 
-### 🔐 Admins (Future)
+### Admins (Future)
 - Manage and update Performance Indicator database
 - Monitor platform usage and student progress
 - Create featured study sets and collections
@@ -171,7 +171,7 @@ deca-prep-ai/
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Phase 1: MVP (Current)
 - [ ] Core study tools (flashcards, quizzes)
@@ -200,7 +200,7 @@ deca-prep-ai/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Here's how to get started:
 
@@ -229,13 +229,13 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 Have questions or ideas? We'd love to hear from you!
 
@@ -245,7 +245,7 @@ Have questions or ideas? We'd love to hear from you!
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built for the DECA community
 - Inspired by modern EdTech platforms
@@ -253,4 +253,6 @@ Have questions or ideas? We'd love to hear from you!
 
 ---
 
-**Made with ❤️ for DECA competitors everywhere.**
+**Made with 🔷 for DECA competitors everywhere.**
+
+                            
