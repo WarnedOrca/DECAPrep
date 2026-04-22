@@ -1,9 +1,13 @@
 import { useState } from 'react';
+import { Link, useSearchParams } from 'react-router-dom';
 import { performanceIndicators } from '../data/mockData';
 
 export default function PerformanceDatabase() {
+  const [searchParams] = useSearchParams();
+  const initialCluster = searchParams.get('cluster') || 'All Clusters';
+
   const [searchQuery, setSearchQuery] = useState('');
-  const [clusterFilter, setClusterFilter] = useState('All Clusters');
+  const [clusterFilter, setClusterFilter] = useState(initialCluster);
   const [topicFilter, setTopicFilter] = useState('All Topics');
   const [difficultyFilter, setDifficultyFilter] = useState('All Levels');
 
@@ -45,7 +49,7 @@ export default function PerformanceDatabase() {
               <div>
                 <span className="text-tertiary font-bold tracking-[0.2em] text-[10px] uppercase mb-2 block">Knowledge Repository</span>
                 <h1 className="text-4xl font-extrabold tracking-tight text-on-surface mb-2">Performance Indicator Database</h1>
-                <p className="text-secondary text-lg max-w-2xl leading-relaxed">The architectural foundation for your competitive success. Access and master over 300+ performance metrics curated for the modern professional.</p>
+                <p className="text-secondary text-lg max-w-2xl leading-relaxed">The architectural foundation for your competitive success. Access and master {performanceIndicators.length} performance metrics curated for the modern professional.</p>
               </div>
               <div className="flex gap-4">
                 <div className="text-right">
@@ -55,7 +59,7 @@ export default function PerformanceDatabase() {
                 <div className="w-px h-12 bg-slate-200"></div>
                 <div className="text-right">
                   <p className="text-[10px] font-bold text-slate-400 uppercase">Total PIs</p>
-                  <p className="text-3xl font-extrabold text-on-surface">312</p>
+                  <p className="text-3xl font-extrabold text-on-surface">{performanceIndicators.length}</p>
                 </div>
               </div>
             </div>
@@ -76,7 +80,9 @@ export default function PerformanceDatabase() {
                     <option>Marketing</option>
                     <option>Finance</option>
                     <option>Hospitality</option>
-                    <option>Business Admin</option>
+                    <option>BMA</option>
+                    <option>Entrepreneurship</option>
+                    <option>Personal Finance</option>
                   </select>
                   <span className="material-symbols-outlined absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none">expand_more</span>
                 </div>
@@ -91,12 +97,9 @@ export default function PerformanceDatabase() {
                     className="w-full bg-surface-container-lowest border-none rounded-xl text-sm py-3 px-4 shadow-sm appearance-none focus:ring-2 focus:ring-primary/20"
                   >
                     <option>All Topics</option>
-                    <option>Branding</option>
-                    <option>Economics</option>
-                    <option>Emotional Intelligence</option>
-                    <option>Communications</option>
-                    <option>Information Management</option>
-                    <option>Information Technology</option>
+                    {Array.from(new Set(performanceIndicators.map(pi => pi.topic))).sort().map(topic => (
+                      <option key={topic}>{topic}</option>
+                    ))}
                   </select>
                   <span className="material-symbols-outlined absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none">expand_more</span>
                 </div>
@@ -162,10 +165,10 @@ export default function PerformanceDatabase() {
                   </div>
                   
                   <div className="flex items-center justify-between pt-4 border-t border-slate-50">
-                    <button className="btn-primary-gradient text-white text-xs font-bold py-2 px-5 rounded-lg flex items-center gap-2 shadow-lg shadow-primary/20 hover:scale-[1.02] transition-transform">
+                    <Link to="/coach" className="btn-primary-gradient text-white text-xs font-bold py-2 px-5 rounded-lg flex items-center gap-2 shadow-lg shadow-primary/20 hover:scale-[1.02] transition-transform">
                       <span className="material-symbols-outlined text-sm">psychology</span>
                       Study Now
-                    </button>
+                    </Link>
                     <button className="p-2 text-slate-400 hover:text-primary transition-colors">
                       <span className="material-symbols-outlined">bookmark</span>
                     </button>
@@ -192,15 +195,12 @@ export default function PerformanceDatabase() {
             </div>
           )}
 
-          {/* Architectural Pagination / Load More */}
+          {/* Results count */}
           {filteredPIs.length > 0 && (
-            <div className="mt-12 flex justify-center">
-              <button className="group flex flex-col items-center gap-2">
-                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.3em]">Load more indicators</span>
-                <div className="w-12 h-12 rounded-full border border-slate-200 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all">
-                  <span className="material-symbols-outlined">expand_more</span>
-                </div>
-              </button>
+            <div className="mt-8 text-center">
+              <p className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.3em]">
+                Showing {filteredPIs.length} of {performanceIndicators.length} performance indicators
+              </p>
             </div>
           )}
         </div>

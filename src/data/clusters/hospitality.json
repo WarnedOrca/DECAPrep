@@ -1,0 +1,3628 @@
+[
+  {
+    "card_id": "CR:018",
+    "topic_area": "Communication Skills",
+    "main_title": "Describe the use of technology in customer relationship ma nagement",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:782",
+    "topic_area": "Entrepreneurship",
+    "main_title": "Calculate the cost of credit",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:055",
+    "topic_area": "Strategic Management",
+    "main_title": "Deliver positive moments of truth",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:052",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify factors associated with positive customer experiences",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:051",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify factors affecting customer - service practices in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:049",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain the nature of customer service in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:046",
+    "topic_area": "Strategic Management",
+    "main_title": "Determine strategies for resolving customer - service situations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:044",
+    "topic_area": "Strategic Management",
+    "main_title": "Resolve hospitality and tourism related conflicts for customers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:043",
+    "topic_area": "Strategic Management",
+    "main_title": "Describe customer - service challenges in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:039",
+    "topic_area": "Strategic Management",
+    "main_title": "Maintain service standards during peaks in demand",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:038",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify strategies to manage custo mer experience during peaks in demand",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:021",
+    "topic_area": "Strategic Management",
+    "main_title": "Process customer/guest orders",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:054",
+    "topic_area": "Strategic Management",
+    "main_title": "Accommodate special needs/specific requests of customers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:053",
+    "topic_area": "Strategic Management",
+    "main_title": "Anticipate unspoken customer needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:067",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain the importance of meeting and exceeding customer/guest expectations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "BL:135",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe the rights of customers in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:065",
+    "topic_area": "Customer Relations",
+    "main_title": "Explain the nature of regulations affecting the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:790",
+    "topic_area": "Business Law",
+    "main_title": "Calculate credit - card processing costs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:789",
+    "topic_area": "Business Law",
+    "main_title": "Discuss considerations in accepting credit - card payments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:090",
+    "topic_area": "Financial Analysis",
+    "main_title": "Describe personal traits important to success in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "EC:136",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Explain the relationship between the economy and hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:282",
+    "topic_area": "Economics",
+    "main_title": "Explain types of primary hospitality and tourism market information",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:281",
+    "topic_area": "Economics",
+    "main_title": "Explain sources of secondary hospitality and tourism informati on",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:280",
+    "topic_area": "Economics",
+    "main_title": "Identify information monitored for business decision making",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:048",
+    "topic_area": "Economics",
+    "main_title": "Describe current issues and trends in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:279",
+    "topic_area": "Economics",
+    "main_title": "Explain the need for hospitality and tourism business information",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:205",
+    "topic_area": "Economics",
+    "main_title": "Use analytical tracking tools",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:106",
+    "topic_area": "Economics",
+    "main_title": "Use software to automate services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:185",
+    "topic_area": "Economics",
+    "main_title": "Use database for information analysis",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:313",
+    "topic_area": "Economics",
+    "main_title": "Describe the impact of mobile technology on the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:060",
+    "topic_area": "Economics",
+    "main_title": "Explain ways that technology impacts the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "MK:008",
+    "topic_area": "Information Management",
+    "main_title": "Differentiate between service marketing and product marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:654",
+    "topic_area": "Human Resources Management",
+    "main_title": "Explain the nature of identity theft controls",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:653",
+    "topic_area": "Human Resources Management",
+    "main_title": "Identify credit card fraud prevention methods",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:115",
+    "topic_area": "Human Resources Management",
+    "main_title": "Explain security considerations in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:527",
+    "topic_area": "Human Resources Management",
+    "main_title": "Identify factors affecting evacuation procedures/protocols",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:657",
+    "topic_area": "Human Resources Management",
+    "main_title": "Provide first - aid",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:119",
+    "topic_area": "Human Resources Management",
+    "main_title": "Handle emergency situations in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:292",
+    "topic_area": "Operations",
+    "main_title": "Prepare written reports for hospitality and tourism decision - making",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:291",
+    "topic_area": "Operations",
+    "main_title": "Present hospitality and tourism findings orally",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:290",
+    "topic_area": "Operations",
+    "main_title": "Prepare and use presentation software to aid in making oral reports",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:289",
+    "topic_area": "Operations",
+    "main_title": "Display hospitality and tourism data in charts/graphs or in tables",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:288",
+    "topic_area": "Operations",
+    "main_title": "Monitor hospitality and tourism sales dat a",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:287",
+    "topic_area": "Operations",
+    "main_title": "guest trends, economic changes, regulatory changes)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:286",
+    "topic_area": "Operations",
+    "main_title": "databases, blogs, forums, listservs, web analytics, social media, geolocation services)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:285",
+    "topic_area": "Operations",
+    "main_title": "Identify challenges with the use of unstructured business data",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:284",
+    "topic_area": "Operations",
+    "main_title": "Obtain business information from customer databases",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:283",
+    "topic_area": "Operations",
+    "main_title": "mail, telephone, Internet, discussion groups, interviews)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:399",
+    "topic_area": "Operations",
+    "main_title": "Describe the interdependence of segments of the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:398",
+    "topic_area": "Operations",
+    "main_title": "Explain the roles and responsibilities of hospitality and tourism organizations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:105",
+    "topic_area": "Operations",
+    "main_title": "Describe the development of the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:111",
+    "topic_area": "Operations",
+    "main_title": "Describe the nature of the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:658",
+    "topic_area": "Professional Development",
+    "main_title": "Identify environmental sustainability issues in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:134",
+    "topic_area": "Professional Development",
+    "main_title": "Practice safe and sanitary handling/disposal of wastes/recyclables",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "OP:529",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the concept of place (distribution) in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:184",
+    "topic_area": "Professional Development",
+    "main_title": "Track invoices",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:081",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the concept of product in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:272",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain career opportunities in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:400",
+    "topic_area": "Strategic Management",
+    "main_title": "Discuss the role of ethics in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:041",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain the use of marketing strategies in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:035",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify ways to segment hospitality and tourism markets",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:246",
+    "topic_area": "Market Planning",
+    "main_title": "Identify product's/service's competitive advantage",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:214",
+    "topic_area": "Market Planning",
+    "main_title": "Communicate core values of product/service",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:021",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of product/service branding",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:319",
+    "topic_area": "Market Planning",
+    "main_title": "Negotiate terms w ith hospitality and tourism suppliers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:318",
+    "topic_area": "Market Planning",
+    "main_title": "Choose hospitality and tourism vendors",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:239",
+    "topic_area": "Market Planning",
+    "main_title": "Evaluate vendors' goods and services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:317",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the role of customer voice in hospitality and tourism branding",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:206",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of corporate branding",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:099",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of product extensions in the hospit ality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:041",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the nature of product bundling",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:095",
+    "topic_area": "Market Planning",
+    "main_title": "Describe services offered by the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:314",
+    "topic_area": "Market Planning",
+    "main_title": "Explain guarantees in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "QM:003",
+    "topic_area": "Market Planning",
+    "main_title": "Discuss the need for continuous improvement of the quality process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:422",
+    "topic_area": "Quality Management",
+    "main_title": "Explain the relationship between promotion and brand",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:082",
+    "topic_area": "Quality Management",
+    "main_title": "Explain promotional methods used by the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:121",
+    "topic_area": "Quality Management",
+    "main_title": "Describe the concept of promotion in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PI:029",
+    "topic_area": "Promotion",
+    "main_title": "Explain the concept of price in the hospitality and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:048",
+    "topic_area": "Pricing",
+    "main_title": "Explain the selli ng process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:062",
+    "topic_area": "Pricing",
+    "main_title": "Acquire product information for use in selling",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:828",
+    "topic_area": "Pricing",
+    "main_title": "Explain key factors in building a clientele",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:932",
+    "topic_area": "Pricing",
+    "main_title": "Expl ain company selling policies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:076",
+    "topic_area": "Pricing",
+    "main_title": "Explain the role of customer service as a component of selling relationships",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:329",
+    "topic_area": "Risk Management",
+    "main_title": "Process sales transactions ( e.g., cash, credit, check)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:149",
+    "topic_area": "Risk Management",
+    "main_title": "Process complimentary offers and coupons/discounts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:479",
+    "topic_area": "Risk Management",
+    "main_title": "Sell gift certificates in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:478",
+    "topic_area": "Risk Management",
+    "main_title": "Process special orders in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:477",
+    "topic_area": "Risk Management",
+    "main_title": "Process telephone orders in hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:476",
+    "topic_area": "Risk Management",
+    "main_title": "Up - sell to enhance customer experience",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:221",
+    "topic_area": "Risk Management",
+    "main_title": "Recommend hospitality and tourism services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:220",
+    "topic_area": "Risk Management",
+    "main_title": "Explain factors that motivate people to choose a hospitality and tourism site",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:500",
+    "topic_area": "Risk Management",
+    "main_title": "Determine hospitality and tourism customer/guest needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:499",
+    "topic_area": "Risk Management",
+    "main_title": "Establish relationship with hospitality and tourism customer/guest",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "EC:053",
+    "topic_area": "Risk Management",
+    "main_title": "Describe the impact of unions on the event industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:056",
+    "topic_area": "Economics",
+    "main_title": "Identify factors affecting attendee satisfaction with events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:212",
+    "topic_area": "Customer Relations",
+    "main_title": "Write funding requests",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:211",
+    "topic_area": "Customer Relations",
+    "main_title": "Solicit event sponsors/vendors/speakers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:166",
+    "topic_area": "Communication Skills",
+    "main_title": "Describe the nature of tax regulations affecting events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:165",
+    "topic_area": "Communication Skills",
+    "main_title": "Describe legal issues affecting the event management industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:024",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of event marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "HR:563",
+    "topic_area": "Marketing",
+    "main_title": "Evaluate event volunteer needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "HR:558",
+    "topic_area": "Marketing",
+    "main_title": "Determine staffing needs for events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "HR:557",
+    "topic_area": "Marketing",
+    "main_title": "Identify alternative staffing options",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:795",
+    "topic_area": "Human Resources Management",
+    "main_title": "Develop event budget",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:794",
+    "topic_area": "Human Resources Management",
+    "main_title": "Describe the nature of event budgeting",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:793",
+    "topic_area": "Human Resources Management",
+    "main_title": "Explain the need for event insurance",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:347",
+    "topic_area": "Financial Analysis",
+    "main_title": "Describe the nature of the event industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:346",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain types of events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:533",
+    "topic_area": "Professional Development",
+    "main_title": "Coordinate design of event - related materials",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:532",
+    "topic_area": "Professional Development",
+    "main_title": "Coordinate design of event - related activities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:535",
+    "topic_area": "Professional Development",
+    "main_title": "Determine quantities of event - hosted merchandise/products to buy",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:534",
+    "topic_area": "Professional Development",
+    "main_title": "Determine event - hosted merchandise/products to buy",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:297",
+    "topic_area": "Operations",
+    "main_title": "Use event - management tools to monitor and communicate event planning progress",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:296",
+    "topic_area": "Operations",
+    "main_title": "Utilize mobile applications for event participation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:295",
+    "topic_area": "Operations",
+    "main_title": "Demonstrate secure document sharing app lications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:294",
+    "topic_area": "Operations",
+    "main_title": "Discuss event registration and attendee management systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:293",
+    "topic_area": "Operations",
+    "main_title": "Explain the role of event management systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:044",
+    "topic_area": "Information Management",
+    "main_title": "Develop event participant profile",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:043",
+    "topic_area": "Information Management",
+    "main_title": "Ide ntify event market segments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:042",
+    "topic_area": "Information Management",
+    "main_title": "Explain the concept of event market identification",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:290",
+    "topic_area": "Market Planning",
+    "main_title": "Create social - media brand identity",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:289",
+    "topic_area": "Market Planning",
+    "main_title": "Describe factors used to position events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:288",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of event branding",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:354",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain certifications available to event planners and managers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:353",
+    "topic_area": "Product/Service Management",
+    "main_title": "Employ career - advancement strategies in event planning and management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:352",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the services of professional organiza tions in event planning and management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:351",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain employment opportunities in event management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:350",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the duties of event managers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:349",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain employment opportunities in event planning",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:348",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the duties of event planners",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:037",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify food and beverage requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:036",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify health and safety requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:035",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine ev ent registration process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:034",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine event planning timeline",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:033",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify required guest services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:032",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine guest transportation needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:031",
+    "topic_area": "Product/Service Management",
+    "main_title": "Define conference room/banquet room requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:030",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine on - site communication requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:029",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify transportation requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:028",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify audio/visual requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:027",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine signage needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:026",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine accessibility needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:025",
+    "topic_area": "Product/Service Management",
+    "main_title": "Identify resources needed for event",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:015",
+    "topic_area": "Product/Service Management",
+    "main_title": "Conduct pre - event research (e.g., event history, event brand image, event risks)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:014",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the role of feasibility anal ysis in the event planning process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:013",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the role of situation analysis in the event planning process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:012",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the nature of event management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:011",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the nature of event planning",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:071",
+    "topic_area": "Project Management",
+    "main_title": "Explain considerations in event pricing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:076",
+    "topic_area": "Pricing",
+    "main_title": "Box and ship exhibition materials",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:071",
+    "topic_area": "Pricing",
+    "main_title": "Monitor event areas",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:070",
+    "topic_area": "Pricing",
+    "main_title": "Use crowd management strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:069",
+    "topic_area": "Pricing",
+    "main_title": "Accept payments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:068",
+    "topic_area": "Pricing",
+    "main_title": "Check people into the event",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:067",
+    "topic_area": "Pricing",
+    "main_title": "Disseminate event materials",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:066",
+    "topic_area": "Pricing",
+    "main_title": "Maintain registration area",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:065",
+    "topic_area": "Pricing",
+    "main_title": "Check signage/displays",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:064",
+    "topic_area": "Pricing",
+    "main_title": "Verify site layout/specifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:063",
+    "topic_area": "Pricing",
+    "main_title": "Confirm vendors/speakers/sponsors/transportation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:062",
+    "topic_area": "Pricing",
+    "main_title": "Check audio - visual set up",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:061",
+    "topic_area": "Pricing",
+    "main_title": "Set up banquet/conference rooms",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PJ:058",
+    "topic_area": "Pricing",
+    "main_title": "Document functional site specifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:057",
+    "topic_area": "Pricing",
+    "main_title": "Complete room specification sheets",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:055",
+    "topic_area": "Pricing",
+    "main_title": "Prepare materials for attendees",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:054",
+    "topic_area": "Pricing",
+    "main_title": "Secure guest services required to support events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:042",
+    "topic_area": "Pricing",
+    "main_title": "Determine event amenities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:041",
+    "topic_area": "Pricing",
+    "main_title": "Select event décor",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:040",
+    "topic_area": "Pricing",
+    "main_title": "Determine site layout",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PJ:039",
+    "topic_area": "Pricing",
+    "main_title": "Determine site selection criteria",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:299",
+    "topic_area": "Pricing",
+    "main_title": "Discuss the use of search engine optimization tactics for digital marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:367",
+    "topic_area": "Pricing",
+    "main_title": "Explain mobile marketing applications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:276",
+    "topic_area": "Pricing",
+    "main_title": "Describe mobile marketing tactics",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:366",
+    "topic_area": "Pricing",
+    "main_title": "Explain the use of video/images for digital marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:281",
+    "topic_area": "Pricing",
+    "main_title": "Describe the use of blogging for marketing communications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:365",
+    "topic_area": "Pricing",
+    "main_title": "Explain the use of social media for digita l marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:165",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of email marketing tactics",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:301",
+    "topic_area": "Pricing",
+    "main_title": "Discuss types of direct mail tactics",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:317",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of buzz - marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:363",
+    "topic_area": "Pricing",
+    "main_title": "Discuss the role of customer voice in word - of - mouth strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:319",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of word - of - mouth (WOM) strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:421",
+    "topic_area": "Pricing",
+    "main_title": "Develop media schedule",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:413",
+    "topic_area": "Pricing",
+    "main_title": "Set - up promotional space",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:412",
+    "topic_area": "Pricing",
+    "main_title": "Determine promotional gadgets/participation draws",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:411",
+    "topic_area": "Pricing",
+    "main_title": "Select promotional booth configurations/specifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:410",
+    "topic_area": "Pricing",
+    "main_title": "Create promotional banners/signs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:253",
+    "topic_area": "Pricing",
+    "main_title": "Discuss internal and external audiences for public - relations activities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:104",
+    "topic_area": "Promotion",
+    "main_title": "Buy ad space/time",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:009",
+    "topic_area": "Promotion",
+    "main_title": "Calculate media costs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:225",
+    "topic_area": "Promotion",
+    "main_title": "Determine advertising reach of media",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:420",
+    "topic_area": "Promotion",
+    "main_title": "Develop promotional brochures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:333",
+    "topic_area": "Promotion",
+    "main_title": "Identify strategies for attracting targeted audience to website",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:328",
+    "topic_area": "Promotion",
+    "main_title": "Explain website - development process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:275",
+    "topic_area": "Promotion",
+    "main_title": "Describe effective advertising layouts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:326",
+    "topic_area": "Promotion",
+    "main_title": "Explain type styles used in advertisements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:295",
+    "topic_area": "Promotion",
+    "main_title": "Discuss the nature of typography",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:322",
+    "topic_area": "Promotion",
+    "main_title": "Explain the use of illustrations in advertisements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:222",
+    "topic_area": "Promotion",
+    "main_title": "Describe the elements of design",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:123",
+    "topic_area": "Promotion",
+    "main_title": "Describe the use of color in advertisements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:402",
+    "topic_area": "Promotion",
+    "main_title": "Design event - related materials",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:418",
+    "topic_area": "Promotion",
+    "main_title": "Repurpose promotional content for use in multiple platforms",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:417",
+    "topic_area": "Promotion",
+    "main_title": "Write promotional content for use in social media",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:416",
+    "topic_area": "Promotion",
+    "main_title": "Write promotional content for use on the webs ite",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:415",
+    "topic_area": "Promotion",
+    "main_title": "Describe effective electronic promotional content",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:414",
+    "topic_area": "Promotion",
+    "main_title": "Discuss effective print promotional content",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:401",
+    "topic_area": "Promotion",
+    "main_title": "Explain the use of storytelling in promoting events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:400",
+    "topic_area": "Promotion",
+    "main_title": "Identify effective promotional headlines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:399",
+    "topic_area": "Promotion",
+    "main_title": "Describe participation factors evaluated by event sponsors/speakers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:098",
+    "topic_area": "Promotion",
+    "main_title": "Identify risks to successful event execution",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:409",
+    "topic_area": "Risk Management",
+    "main_title": "Promote participant packages",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:408",
+    "topic_area": "Risk Management",
+    "main_title": "Determine event - related activities to engage participants",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:407",
+    "topic_area": "Risk Management",
+    "main_title": "Select event signage",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:234",
+    "topic_area": "Risk Management",
+    "main_title": "Participate in the design of collateral materials to promote special events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:185",
+    "topic_area": "Risk Management",
+    "main_title": "Cultivate media relationships",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:057",
+    "topic_area": "Risk Management",
+    "main_title": "Write a press release",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:061",
+    "topic_area": "Risk Management",
+    "main_title": "Resolve reservation issues",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:060",
+    "topic_area": "Risk Management",
+    "main_title": "Process guest r oom changes",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:059",
+    "topic_area": "Risk Management",
+    "main_title": "Recommend alternative lodging facilities for guests",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:058",
+    "topic_area": "Risk Management",
+    "main_title": "Offer services to guests",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:057",
+    "topic_area": "Risk Management",
+    "main_title": "Orient guests to lodging facility",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:214",
+    "topic_area": "Customer Relations",
+    "main_title": "Route telephone calls",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "BL:171",
+    "topic_area": "Communication Skills",
+    "main_title": "Describe the rights of guests in the hotel/lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:170",
+    "topic_area": "Communication Skills",
+    "main_title": "Explain the nature of regulations affecting the hotel/lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:169",
+    "topic_area": "Communication Skills",
+    "main_title": "Explain the use of hotel management contracts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:168",
+    "topic_area": "Communication Skills",
+    "main_title": "Distinguish between letters of agreement and contracts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:028",
+    "topic_area": "Business Law",
+    "main_title": "Describe property features that influence customer appeal",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:027",
+    "topic_area": "Business Law",
+    "main_title": "Identify factors that influence guest experiences throughout the guest life cycle",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:025",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of hotel/lodging marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:810",
+    "topic_area": "Marketing",
+    "main_title": "Post charges to guest folios",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:809",
+    "topic_area": "Marketing",
+    "main_title": "Track credit availability/usage",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:808",
+    "topic_area": "Marketing",
+    "main_title": "Process advance deposits",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:807",
+    "topic_area": "Marketing",
+    "main_title": "Process refunds",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:803",
+    "topic_area": "Marketing",
+    "main_title": "Produce daily reports",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:802",
+    "topic_area": "Marketing",
+    "main_title": "Reconcile accounting issues",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:801",
+    "topic_area": "Marketing",
+    "main_title": "Complete a night audit",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:800",
+    "topic_area": "Marketing",
+    "main_title": "Explain the purpose of night audits",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:799",
+    "topic_area": "Marketing",
+    "main_title": "Discuss lodging tax structures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:798",
+    "topic_area": "Marketing",
+    "main_title": "Discuss the nature of lodging accounting systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:546",
+    "topic_area": "Financial Analysis",
+    "main_title": "Use key - control measures to protect guests",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:545",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain hotel security considerations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:540",
+    "topic_area": "Financial Analysis",
+    "main_title": "Describe strategies for responding to biohazard incidents",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:539",
+    "topic_area": "Financial Analysis",
+    "main_title": "Label/store hazardous chemicals/waste",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:538",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identify hazardous chemicals/waste",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:537",
+    "topic_area": "Financial Analysis",
+    "main_title": "Handle emergency situations in hotel/lodging establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:113",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain procedures for handling robbery situations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:305",
+    "topic_area": "Operations",
+    "main_title": "Describe current issues and trends in the hotel/lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:304",
+    "topic_area": "Operations",
+    "main_title": "Describe system integration challenges in hotel management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:303",
+    "topic_area": "Operations",
+    "main_title": "Utilize property management system applications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:302",
+    "topic_area": "Operations",
+    "main_title": "Maintain ac curate guest room status/accounts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:301",
+    "topic_area": "Operations",
+    "main_title": "Discuss online guest reservation systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:300",
+    "topic_area": "Operations",
+    "main_title": "Explain the role and components of property management systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:299",
+    "topic_area": "Operations",
+    "main_title": "Explain ways that technology impacts the hotel/lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:572",
+    "topic_area": "Information Management",
+    "main_title": "Discuss strategies to manage guest use of water/energy",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:571",
+    "topic_area": "Information Management",
+    "main_title": "Identify waste redirection opportunities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:563",
+    "topic_area": "Information Management",
+    "main_title": "Assign guest rooms for cleaning",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:562",
+    "topic_area": "Information Management",
+    "main_title": "Describe pest control strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:561",
+    "topic_area": "Information Management",
+    "main_title": "Identify signs of pest infestations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:560",
+    "topic_area": "Information Management",
+    "main_title": "Explain the housekeeping function",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:559",
+    "topic_area": "Information Management",
+    "main_title": "Process maintenance request",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:558",
+    "topic_area": "Information Management",
+    "main_title": "Identify guest room/public area maintenance needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:555",
+    "topic_area": "Information Management",
+    "main_title": "affiliate networks, Internet, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:556",
+    "topic_area": "Information Management",
+    "main_title": "Identify performance/productivity standards for lodging facilities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:554",
+    "topic_area": "Information Management",
+    "main_title": "Block group re servations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:553",
+    "topic_area": "Information Management",
+    "main_title": "Process guest departures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:551",
+    "topic_area": "Information Management",
+    "main_title": "Complete guest check - in procedures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:550",
+    "topic_area": "Information Management",
+    "main_title": "Extend reservations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:549",
+    "topic_area": "Information Management",
+    "main_title": "Modify/cancel guest reservations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:548",
+    "topic_area": "Information Management",
+    "main_title": "Book and confirm room reservations (i.e., direct and indirect)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:547",
+    "topic_area": "Information Management",
+    "main_title": "Process deliveries",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:299",
+    "topic_area": "Information Management",
+    "main_title": "Describe the purpose of guest relations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:298",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of concierge services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:297",
+    "topic_area": "Information Management",
+    "main_title": "Explain the role of guest serv ices",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:295",
+    "topic_area": "Information Management",
+    "main_title": "Describe the uses of grades and standards in lodging",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:365",
+    "topic_area": "Product/Service Management",
+    "main_title": "Determine the services provided by professional organizations in the lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:364",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain employment opportuniti es in the lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:363",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the role of hotel management companies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:362",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the nature of back - of - the house operations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:361",
+    "topic_area": "Product/Service Management",
+    "main_title": "Discuss the nature of food and beverage division",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:360",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the nature of front office operations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:359",
+    "topic_area": "Product/Service Management",
+    "main_title": "beverage division, marketing and sales division)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:358",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe levels of service in lodging establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:357",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe lodging accommodation types and classifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:356",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the development of the lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:355",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the nature of the lodging industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PI:080",
+    "topic_area": "Professional Development",
+    "main_title": "Explain considerations in hotel/lodging room pricing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:045",
+    "topic_area": "Pricing",
+    "main_title": "Describe lodging market segments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:024",
+    "topic_area": "Market Planning",
+    "main_title": "Discuss room distribution payment models",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:023",
+    "topic_area": "Market Planning",
+    "main_title": "Expl ain the nature of channel strategies in lodging organizations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:381",
+    "topic_area": "Channel Management",
+    "main_title": "Explain the nature of key account management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:498",
+    "topic_area": "Channel Management",
+    "main_title": "Oversee fulfillment/delivery of client services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:497",
+    "topic_area": "Channel Management",
+    "main_title": "Negotiate letters of agreement/block contracts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:496",
+    "topic_area": "Channel Management",
+    "main_title": "Explain factors considered when determining group/event negotiation strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:495",
+    "topic_area": "Channel Management",
+    "main_title": "Identify factors influencing customer selection of lodging property for groups/events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:493",
+    "topic_area": "Channel Management",
+    "main_title": "Acquire knowledge of food and beverage capabilities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:492",
+    "topic_area": "Channel Management",
+    "main_title": "Acquire knowledge of lodging meeting room capacity/requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:491",
+    "topic_area": "Channel Management",
+    "main_title": "Acquire knowledge of property capacity/amenities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:494",
+    "topic_area": "Channel Management",
+    "main_title": "Identify lodging sales opportunities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:112",
+    "topic_area": "Channel Management",
+    "main_title": "Differentiate between consumer and organizational buying behavior",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:424",
+    "topic_area": "Selling",
+    "main_title": "Prepare sales kit",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:423",
+    "topic_area": "Selling",
+    "main_title": "Develop property fact book",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:066",
+    "topic_area": "Promotion",
+    "main_title": "Describe strategies for ma naging customer dynamics",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:065",
+    "topic_area": "Promotion",
+    "main_title": "Identify customer dynamics affecting food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:063",
+    "topic_area": "Promotion",
+    "main_title": "Provide beverage service",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:062",
+    "topic_area": "Promotion",
+    "main_title": "Provide table service",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:176",
+    "topic_area": "Customer Relations",
+    "main_title": "Identify food - safety guidelines/requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:175",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss local regulation of food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:174",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe the nature and scope of government agencies that oversee the food industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:173",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe liability issues in food establishments serving alcohol",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:172",
+    "topic_area": "Customer Relations",
+    "main_title": "Explain the nature of regulations affecting food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:309",
+    "topic_area": "Business Law",
+    "main_title": "Describe system integration challenges in re staurant management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:308",
+    "topic_area": "Business Law",
+    "main_title": "Utilize restaurant management system applications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:307",
+    "topic_area": "Business Law",
+    "main_title": "Discuss online reservation systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:306",
+    "topic_area": "Business Law",
+    "main_title": "Explain the role of restaurant management systems",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:029",
+    "topic_area": "Information Management",
+    "main_title": "Explain factors that influence customer selection of food places and menu items",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:825",
+    "topic_area": "Marketing",
+    "main_title": "Calculate per person buffet/salad bar costs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:824",
+    "topic_area": "Marketing",
+    "main_title": "Calculate per plate costs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:823",
+    "topic_area": "Marketing",
+    "main_title": "Calculate standard recipe yield measure",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:822",
+    "topic_area": "Marketing",
+    "main_title": "Calculate food product total cost",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:821",
+    "topic_area": "Marketing",
+    "main_title": "Calculate food product unit costs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:820",
+    "topic_area": "Marketing",
+    "main_title": "Describe factors influencing make - or - buy decisions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:819",
+    "topic_area": "Marketing",
+    "main_title": "Discuss the use of make - or - buy analysis in food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:596",
+    "topic_area": "Financial Analysis",
+    "main_title": "Analyze the cause of accidents",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:595",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identify equipment safety requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:594",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identify fire prevention strategies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:593",
+    "topic_area": "Financial Analysis",
+    "main_title": "Assess fire hazards",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:592",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identify physical hazards",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:591",
+    "topic_area": "Financial Analysis",
+    "main_title": "Describe strategies for responding to biohazard incidents at restaurants",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:590",
+    "topic_area": "Financial Analysis",
+    "main_title": "Label/store restaurants' hazardous chemicals/waste",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:589",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identif y restaurants' hazardous chemicals/waste",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:588",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain the relationship between personal safety/sanitation and allergen exposure",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:587",
+    "topic_area": "Financial Analysis",
+    "main_title": "Comply with policies and procedures for handling bodily fluids",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "OP:586",
+    "topic_area": "Financial Analysis",
+    "main_title": "Follow safety precautions for lifting/moving materials",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "OP:584",
+    "topic_area": "Financial Analysis",
+    "main_title": "Demonstrate proper hand - washing technique",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "OP:583",
+    "topic_area": "Financial Analysis",
+    "main_title": "Identify personal health conditions that affect food safety",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "OP:582",
+    "topic_area": "Financial Analysis",
+    "main_title": "Discuss the role of personal hygiene in food safety",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "PQ"
+  },
+  {
+    "card_id": "NF:312",
+    "topic_area": "Operations",
+    "main_title": "Analyze trends in food habits/preferences",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:311",
+    "topic_area": "Operations",
+    "main_title": "Evaluate trends affecting food presentation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:310",
+    "topic_area": "Operations",
+    "main_title": "Assess trends affecting food preparation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:642",
+    "topic_area": "Operations",
+    "main_title": "Discuss the nature of restaurant property management",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:638",
+    "topic_area": "Operations",
+    "main_title": "Break down commercial equipment/machines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:637",
+    "topic_area": "Operations",
+    "main_title": "Set up and maintain commercial equipment/machines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:634",
+    "topic_area": "Operations",
+    "main_title": "Determine cleaning requirements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:633",
+    "topic_area": "Operations",
+    "main_title": "Mix cleaning/sanitation solutions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:632",
+    "topic_area": "Operations",
+    "main_title": "Follow sanitization procedures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:631",
+    "topic_area": "Operations",
+    "main_title": "Label cleaning/sanitation solutions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:630",
+    "topic_area": "Operations",
+    "main_title": "Distinguish among cleaning, sterilizing, and sanitizing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:629",
+    "topic_area": "Operations",
+    "main_title": "Dispose of food and food by - products",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:618",
+    "topic_area": "Operations",
+    "main_title": "Describe strategies for managing table turns",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:617",
+    "topic_area": "Operations",
+    "main_title": "Identify factors affecting wait time",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:621",
+    "topic_area": "Operations",
+    "main_title": "Utilize quality control methods in food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:620",
+    "topic_area": "Operations",
+    "main_title": "Identify quality - control measures in food establishments",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:610",
+    "topic_area": "Operations",
+    "main_title": "Adjust equipment/workstations to prevent cross - contamination",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:609",
+    "topic_area": "Operations",
+    "main_title": "Identify temperature danger zone (TDZ) foods",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:608",
+    "topic_area": "Operations",
+    "main_title": "Identify time and temperature control for food safety (TCS)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:607",
+    "topic_area": "Operations",
+    "main_title": "Identify potentially hazardous f oods (PHF)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:606",
+    "topic_area": "Operations",
+    "main_title": "Identify biological hazards",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:605",
+    "topic_area": "Operations",
+    "main_title": "Identify critical control points",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:604",
+    "topic_area": "Operations",
+    "main_title": "Store foods properly",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:603",
+    "topic_area": "Operations",
+    "main_title": "Mark/label foods properly",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:602",
+    "topic_area": "Operations",
+    "main_title": "Monitor consumer self - service food stations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:601",
+    "topic_area": "Operations",
+    "main_title": "Monitor food temperatures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:600",
+    "topic_area": "Operations",
+    "main_title": "Identify methods/practices used to control/eliminate food contamination",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:599",
+    "topic_area": "Operations",
+    "main_title": "management system",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:373",
+    "topic_area": "Operations",
+    "main_title": "Identify food requirements applicable to special populations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:371",
+    "topic_area": "Operations",
+    "main_title": "Identify cuisines common to different regions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:370",
+    "topic_area": "Operations",
+    "main_title": "Identify international cuisines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:369",
+    "topic_area": "Operations",
+    "main_title": "Identify domestic cuisines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:367",
+    "topic_area": "Operations",
+    "main_title": "Discuss types of table service",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:366",
+    "topic_area": "Operations",
+    "main_title": "Differentiate among segments of the culinary and foodservice operations industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:659",
+    "topic_area": "Professional Development",
+    "main_title": "Identify waste management opportunities at restaurant",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:623",
+    "topic_area": "Professional Development",
+    "main_title": "Describe strategies for reducing food loss",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:622",
+    "topic_area": "Professional Development",
+    "main_title": "Identify common sources of food loss",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:407",
+    "topic_area": "Professional Development",
+    "main_title": "Maintain invento ry levels",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:645",
+    "topic_area": "Professional Development",
+    "main_title": "Identify alternative sources for food products",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:644",
+    "topic_area": "Professional Development",
+    "main_title": "Identify sustainability factors affecting the purchase of food and nonfood products",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:643",
+    "topic_area": "Professional Development",
+    "main_title": "Identify factors influencing food and beverage purchasing decisions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:397",
+    "topic_area": "Professional Development",
+    "main_title": "Explain restaurant - management certifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:396",
+    "topic_area": "Professional Development",
+    "main_title": "Describe culinary certifications",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:395",
+    "topic_area": "Professional Development",
+    "main_title": "Explain employment opportunities in the foodservice industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:394",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the purpose of temperature probes",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:393",
+    "topic_area": "Professional Development",
+    "main_title": "Identify food - safety warning signs observable during the serving process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:392",
+    "topic_area": "Professional Development",
+    "main_title": "Identify food - safety warning signs observable during the storing process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:390",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the effect of moisture levels of food safety and sanitation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:389",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the effect of food pH levels on food safety and sanitation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:388",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the effect of water characteristics on food safety and sanitation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:387",
+    "topic_area": "Professional Development",
+    "main_title": "Describe strategies for preventing bacteria multiplication in food",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:385",
+    "topic_area": "Professional Development",
+    "main_title": "Describe consequences of exposure to food intolerances",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:384",
+    "topic_area": "Professional Development",
+    "main_title": "Describe consequences of exposure to food allergens",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:383",
+    "topic_area": "Professional Development",
+    "main_title": "Identify common food intolerances",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:382",
+    "topic_area": "Professional Development",
+    "main_title": "Identify common food allergies",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:381",
+    "topic_area": "Professional Development",
+    "main_title": "Identify conditions affecting the rate of multiplication in bacteria",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:380",
+    "topic_area": "Professional Development",
+    "main_title": "Identify foodborne illnesses and their causes",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:379",
+    "topic_area": "Professional Development",
+    "main_title": "Identify types of toxins",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:378",
+    "topic_area": "Professional Development",
+    "main_title": "Identify types of fungi",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:377",
+    "topic_area": "Professional Development",
+    "main_title": "Identify types of parasites",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:376",
+    "topic_area": "Professional Development",
+    "main_title": "Identify types of viruses",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:375",
+    "topic_area": "Professional Development",
+    "main_title": "Identify types of harmful bacteria",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:374",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of pathogens",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:427",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of effective nutritional disclosures",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:426",
+    "topic_area": "Professional Development",
+    "main_title": "Identify effective menu descriptions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:425",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the use of design principles in menu development",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:084",
+    "topic_area": "Promotion",
+    "main_title": "Explain considerations in meal pricing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:313",
+    "topic_area": "Pricing",
+    "main_title": "concept)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:308",
+    "topic_area": "Pricing",
+    "main_title": "Discuss the nature of the menu as a management tool",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:307",
+    "topic_area": "Pricing",
+    "main_title": "Determine effect of changes in nutritional guidelines",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:306",
+    "topic_area": "Pricing",
+    "main_title": "Describe the uses of grades and standards in foodservice",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:073",
+    "topic_area": "Product/Service Management",
+    "main_title": "Organize excursions for visitors/travelers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:072",
+    "topic_area": "Product/Service Management",
+    "main_title": "Adapt customer service to meet the customers’ individual n eeds",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:071",
+    "topic_area": "Product/Service Management",
+    "main_title": "Respond to customer feedback",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:070",
+    "topic_area": "Product/Service Management",
+    "main_title": "Provide service to customers with special needs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:069",
+    "topic_area": "Product/Service Management",
+    "main_title": "Provide interesting or enlightening information about points of interest",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:068",
+    "topic_area": "Product/Service Management",
+    "main_title": "Offer sightseeing advice",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CO:215",
+    "topic_area": "Customer Relations",
+    "main_title": "Use social media to enhance customer post visit experience",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:177",
+    "topic_area": "Communication Skills",
+    "main_title": "Describe the nature of tax regulations affecting tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:827",
+    "topic_area": "Business Law",
+    "main_title": "Discuss standard payment terms/fees in travel/to urism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:826",
+    "topic_area": "Business Law",
+    "main_title": "Identify costs associated with travel/tourism packages and events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:142",
+    "topic_area": "Financial Analysis",
+    "main_title": "Liaise with travel providers and accommodations providers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EC:143",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:325",
+    "topic_area": "Economics",
+    "main_title": "Create a destination management system to store data",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:321",
+    "topic_area": "Economics",
+    "main_title": "Monitor travel patterns",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:320",
+    "topic_area": "Economics",
+    "main_title": "Follow trends in the popularity of destinations and packages",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:319",
+    "topic_area": "Economics",
+    "main_title": "Identify issues and trends in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:318",
+    "topic_area": "Economics",
+    "main_title": "Identify sources that provide input into tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:317",
+    "topic_area": "Economics",
+    "main_title": "Discuss Global Distribution Systems (GDS)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:315",
+    "topic_area": "Economics",
+    "main_title": "Discuss the use of RFID technology in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:314",
+    "topic_area": "Economics",
+    "main_title": "Explain ways that technology impacts the travel and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:035",
+    "topic_area": "Information Management",
+    "main_title": "Explain factors influencing convention meeting/event site appeal",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:034",
+    "topic_area": "Information Management",
+    "main_title": "Describe factors influencing customer willingness to travel to a destination",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:033",
+    "topic_area": "Information Management",
+    "main_title": "Describe reasons that people choose destinations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "MK:032",
+    "topic_area": "Information Management",
+    "main_title": "Explain reasons that people travel",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "MK:031",
+    "topic_area": "Information Management",
+    "main_title": "Describe factors affecting travel and tourism marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:030",
+    "topic_area": "Information Management",
+    "main_title": "Explain the nature of destination marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:671",
+    "topic_area": "Marketing",
+    "main_title": "Assess the environmental impact of tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:670",
+    "topic_area": "Marketing",
+    "main_title": "Exp lain the principles of sustainable tourism development",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:669",
+    "topic_area": "Marketing",
+    "main_title": "Arrange catering",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:668",
+    "topic_area": "Marketing",
+    "main_title": "Arrange accommodations for travelers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:667",
+    "topic_area": "Marketing",
+    "main_title": "Arrange transportation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:666",
+    "topic_area": "Marketing",
+    "main_title": "Organize tours",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:665",
+    "topic_area": "Marketing",
+    "main_title": "Manage currency exchange",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:664",
+    "topic_area": "Marketing",
+    "main_title": "Manage post - booking travel processes",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:663",
+    "topic_area": "Marketing",
+    "main_title": "Manage pre - booking travel processes",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:662",
+    "topic_area": "Marketing",
+    "main_title": "Book tickets with hospitality and tourism service providers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:661",
+    "topic_area": "Marketing",
+    "main_title": "Take and confirm reservations for travel and touri sm services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:660",
+    "topic_area": "Marketing",
+    "main_title": "Monitor group’s activities to ensure compliance with safety regulations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:420",
+    "topic_area": "Operations",
+    "main_title": "Describe employment opportunities in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:417",
+    "topic_area": "Operations",
+    "main_title": "",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:416",
+    "topic_area": "Operations",
+    "main_title": "Identify transportation/travel modes used in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:415",
+    "topic_area": "Operations",
+    "main_title": "Describe the purpose/use of contracted services in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:414",
+    "topic_area": "Operations",
+    "main_title": "Discuss the role of destination management organizations (DMOs)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:413",
+    "topic_area": "Operations",
+    "main_title": "Explain the purpose and scope of the conventions and meetings industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:412",
+    "topic_area": "Operations",
+    "main_title": "Discuss the roles and types of organizations involved in tourism m arketing/promotion",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:411",
+    "topic_area": "Operations",
+    "main_title": "brokers, consolidators, suppliers, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:410",
+    "topic_area": "Operations",
+    "main_title": "Distinguish among types of travel agencies based on services offered and their size",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:409",
+    "topic_area": "Operations",
+    "main_title": "Distinguish between traditional and sustainable tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:408",
+    "topic_area": "Operations",
+    "main_title": "Identify attraction options/types by their destination classification",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:407",
+    "topic_area": "Operations",
+    "main_title": "Identify characteristics influencing cl assification of destinations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:406",
+    "topic_area": "Operations",
+    "main_title": "Identify key travel destinations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:405",
+    "topic_area": "Operations",
+    "main_title": "Describe major destination types (e.g., cultural, natural, recreational)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:404",
+    "topic_area": "Operations",
+    "main_title": "adventure, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:403",
+    "topic_area": "Operations",
+    "main_title": "Describe types of tours",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:402",
+    "topic_area": "Operations",
+    "main_title": "Distinguish between front office and back office operations in the travel business",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:401",
+    "topic_area": "Operations",
+    "main_title": "Explain the nature of the travel and tourism industry",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "IM:488",
+    "topic_area": "Professional Development",
+    "main_title": "Track public perceptions of organization",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:487",
+    "topic_area": "Professional Development",
+    "main_title": "Monitor attitude changes among local population",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:486",
+    "topic_area": "Professional Development",
+    "main_title": "Monitor traveler behavior",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:026",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     -            Information Management",
+    "main_title": "Identify affinity relationship opportunities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:021",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     -            Information Management",
+    "main_title": "Expl ain the nature of affinity partner relationships",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:321",
+    "topic_area": "Channel Management",
+    "main_title": "Maintain destination brand",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:134",
+    "topic_area": "Channel Management",
+    "main_title": "Identify product opportunities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:091",
+    "topic_area": "Product/Service Management",
+    "main_title": "promotions, market segments, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:090",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe considerations in travel pricing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:013",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of sales forecasts",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:008",
+    "topic_area": "Pricing",
+    "main_title": "Explain the role of situation analysis in the marketing planning process",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:007",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of marketing plans",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:047",
+    "topic_area": "Pricing",
+    "main_title": "vacation, travel season, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:046",
+    "topic_area": "Pricing",
+    "main_title": "rail market, specialty/activity/sports markets, ski market, niche market, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:392",
+    "topic_area": "Market Planning",
+    "main_title": "Pre - test promotional campaign (e.g., advertising, direct marketing, etc.)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:492",
+    "topic_area": "Market Planning",
+    "main_title": "Conduct visitor/traveler satisfaction surveys",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:491",
+    "topic_area": "Market Planning",
+    "main_title": "Conduct surveys of visitor/traveler perceptions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:490",
+    "topic_area": "Market Planning",
+    "main_title": "Administer visitor experience survey",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:364",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the role of business websites in digital marketing",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:436",
+    "topic_area": "Market Planning",
+    "main_title": "Describe promotional displays used in travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:433",
+    "topic_area": "Market Planning",
+    "main_title": "Explain information points of contact within an overall tourism information system",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:432",
+    "topic_area": "Market Planning",
+    "main_title": "Identify communication channels used in travel and tourism promotion",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:431",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the purpose of tourism promotion",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:441",
+    "topic_area": "Promotion",
+    "main_title": "Conduct familiarization (FAM) tours",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:440",
+    "topic_area": "Promotion",
+    "main_title": "Develop community partnerships",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:439",
+    "topic_area": "Promotion",
+    "main_title": "Develop promotional brochures for travel and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:434",
+    "topic_area": "Promotion",
+    "main_title": "Support government initiatives for hospitality and tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:341",
+    "topic_area": "Promotion",
+    "main_title": "Participate in community outreach activities",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:437",
+    "topic_area": "Promotion",
+    "main_title": "Explain the use of storytelling in promoting tourism",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:506",
+    "topic_area": "Promotion",
+    "main_title": "Visit local attractions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:505",
+    "topic_area": "Promotion",
+    "main_title": "Identify travel and tour plan options",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:458",
+    "topic_area": "Selling",
+    "main_title": "Manage comments on digital channels",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:393",
+    "topic_area": "Selling",
+    "main_title": "Monitor user - generated content (UGC)",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:452",
+    "topic_area": "Selling",
+    "main_title": "Develop marketing communications calendars",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:451",
+    "topic_area": "Selling",
+    "main_title": "Explain the nature of marketing communications calendars",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:297",
+    "topic_area": "Selling",
+    "main_title": "Discuss the use of marketing/creative briefs",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:447",
+    "topic_area": "Selling",
+    "main_title": "Participate in trade shows/expositi ons to showcase tourism assets/services",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:446",
+    "topic_area": "Selling",
+    "main_title": "Set up cross - promotions of events/tours",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:445",
+    "topic_area": "Selling",
+    "main_title": "Participate in the design of collateral materials to promote special events/tours",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:444",
+    "topic_area": "Selling",
+    "main_title": "Identify considerations used to evaluate trade show/exposition participation",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:518",
+    "topic_area": "Selling",
+    "main_title": "Plan sales strategy",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:517",
+    "topic_area": "Selling",
+    "main_title": "Develop and submit sales proposal",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:516",
+    "topic_area": "Selling",
+    "main_title": "Propose individual/group itineraries",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:515",
+    "topic_area": "Selling",
+    "main_title": "Sell packaged travel and tourism products",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:514",
+    "topic_area": "Selling",
+    "main_title": "Recommend individual/group attractions/events/entertainment",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:513",
+    "topic_area": "Selling",
+    "main_title": "Recommend individual/group travel arrangements",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:512",
+    "topic_area": "Selling",
+    "main_title": "Propose tourism experien ces",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:511",
+    "topic_area": "Selling",
+    "main_title": "Research tourism options fitting client motives",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:510",
+    "topic_area": "Selling",
+    "main_title": "Determine client’s tourism motives for use in offering recommendations",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:483",
+    "topic_area": "Selling",
+    "main_title": "Build rapport and credibility with prospect",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:509",
+    "topic_area": "Selling",
+    "main_title": "Discuss motivations of travelers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:508",
+    "topic_area": "Selling",
+    "main_title": "Conduct pre - trip research",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:001",
+    "topic_area": "Selling",
+    "main_title": "Prospec t for customers",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:504",
+    "topic_area": "Selling",
+    "main_title": "Describe a region’s sociocultural environment",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:503",
+    "topic_area": "Selling",
+    "main_title": "Explain the nature of a region’s geophysical/landscape/aesthetic features",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:502",
+    "topic_area": "Selling",
+    "main_title": "Discuss key travel destinations in major geographical regions",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:501",
+    "topic_area": "Selling",
+    "main_title": "Identify local attractions/events",
+    "cluster_tag": "Hospitality",
+    "difficulty_label": "CS"
+  }
+]

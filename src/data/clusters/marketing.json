@@ -1,0 +1,2795 @@
+[
+  {
+    "card_id": "PM:017",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify consumer protection provisions of appropriate agencies",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:020",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain warranties and guarantees",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:019",
+    "topic_area": "Strategic Management",
+    "main_title": "Describe the uses of grades and standards in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:128",
+    "topic_area": "Strategic Management",
+    "main_title": "Generate product ideas",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:127",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify methods/techniques to generate a product idea",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:040",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain business ethics in product/service management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:039",
+    "topic_area": "Strategic Management",
+    "main_title": "De scribe the use of technology in the product/service management function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:024",
+    "topic_area": "Strategic Management",
+    "main_title": "Identify the impact of product life cycles on marketing decisions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:001",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain the nature and scope of the product/service management function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:024",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain employment opportunities in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:137",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the need for professional and ethical standards in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:008",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of channel - member relationships",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:007",
+    "topic_area": "Professional Development",
+    "main_title": "Coordinate channel management with other marketing activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:006",
+    "topic_area": "Professional Development",
+    "main_title": "Describe ethical considerations in channel management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:004",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the use of technology in the channel management function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:276",
+    "topic_area": "Channel Management",
+    "main_title": "Describe the role of customer voice in branding",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:042",
+    "topic_area": "Channel Management",
+    "main_title": "Describe factors used by marketers to position products/services",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:277",
+    "topic_area": "Channel Management",
+    "main_title": "Identify customer touch points",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:207",
+    "topic_area": "Channel Management",
+    "main_title": "Describe factors used by businesses to position corporate brands",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:191",
+    "topic_area": "Channel Management",
+    "main_title": "Explain the use of descriptive statistics in marketing decision making",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:469",
+    "topic_area": "Channel Management",
+    "main_title": "Monitor/measure customer “buzz”",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:062",
+    "topic_area": "Channel Management",
+    "main_title": "Explain techniques for proc essing marketing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:418",
+    "topic_area": "Channel Management",
+    "main_title": "Explain characteristics of effective data - collection instruments",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:289",
+    "topic_area": "Channel Management",
+    "main_title": "groups, interviews, scanners, tracking tools)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:285",
+    "topic_area": "Channel Management",
+    "main_title": "Discuss the nature of sampling plans (i.e., who, how many, how chosen)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:281",
+    "topic_area": "Channel Management",
+    "main_title": "research)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:284",
+    "topic_area": "Channel Management",
+    "main_title": "causal)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:282",
+    "topic_area": "Channel Management",
+    "main_title": "Discuss the nature of marketing research problems/issues",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:419",
+    "topic_area": "Channel Management",
+    "main_title": "Describe the regulation of marketing - information management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:183",
+    "topic_area": "Channel Management",
+    "main_title": "Describe the use of technology in the marketing - information management function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:025",
+    "topic_area": "Channel Management",
+    "main_title": "Explain the role of ethics in marketing - information management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:001",
+    "topic_area": "Channel Management",
+    "main_title": "Explain the nature and scope of the marketing - information management functio n",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:184",
+    "topic_area": "Channel Management",
+    "main_title": "Identify data monitored for marketing decision making",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:012",
+    "topic_area": "Channel Management",
+    "main_title": "Describe the need for marketing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PI:017",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain legal considerations for pricing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:016",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the use of technology in the pricing function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:015",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Describe the role of business ethics in pricing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:006",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of marketing planning",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:428",
+    "topic_area": "Market Planning",
+    "main_title": "sources of information, ti meliness of information, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:293",
+    "topic_area": "Market Planning",
+    "main_title": "length, layout)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:292",
+    "topic_area": "Market Planning",
+    "main_title": "response errors, sample design)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:251",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the importance of coordinating elements in advertisements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:014",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the components of advertisements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:101",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the regulation of promotion",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:100",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the use of technology in the promotion function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:099",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the use of b usiness ethics in promotion",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:359",
+    "topic_area": "Promotion",
+    "main_title": "Discuss motivational theories that impact buying behavior",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:109",
+    "topic_area": "Promotion",
+    "main_title": "Analyze product information to identify product feat ures and benefits",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:107",
+    "topic_area": "Promotion",
+    "main_title": "Describe the use of technology in the selling function",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:106",
+    "topic_area": "Promotion",
+    "main_title": "Explain legal and ethical considerations in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:177",
+    "topic_area": "Selling",
+    "main_title": "Write new - business pitches",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:179",
+    "topic_area": "Selling",
+    "main_title": "Write pitch/sales letters",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:178",
+    "topic_area": "Selling",
+    "main_title": "Write white papers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:193",
+    "topic_area": "Selling",
+    "main_title": "Maintain day - to - day content on social platforms",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:175",
+    "topic_area": "Selling",
+    "main_title": "Prepare contact reports",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:174",
+    "topic_area": "Selling",
+    "main_title": "Make client presentations (includes strategies and research findings)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:138",
+    "topic_area": "Communication Skills",
+    "main_title": "Explain regulations impacting digital marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:050",
+    "topic_area": "Communication Skills",
+    "main_title": "Explain the nature of contract exclusivity",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:327",
+    "topic_area": "Business Law",
+    "main_title": "Verify accuracy of bills",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "EI:065",
+    "topic_area": "Financial Analysis",
+    "main_title": "Build rapport with suppliers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:067",
+    "topic_area": "Financial Analysis",
+    "main_title": "Foster client - agency relationship",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:069",
+    "topic_area": "Financial Analysis",
+    "main_title": "Maintain composure when receiving/delivering bad news",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:068",
+    "topic_area": "Financial Analysis",
+    "main_title": "Gain commitment from client",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EI:073",
+    "topic_area": "Financial Analysis",
+    "main_title": "Apply ethics to digital communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:210",
+    "topic_area": "Customer Relations",
+    "main_title": "Identify trends in social - media space",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:206",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe current issues/trends in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:018",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the relationship between promotion and marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:039",
+    "topic_area": "Human Resources Management",
+    "main_title": "Negotiate terms with vendors",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:109",
+    "topic_area": "Human Resources Management",
+    "main_title": "Evaluate vendors' services",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:171",
+    "topic_area": "Human Resources Management",
+    "main_title": "Develop schedule for marketing communications assignment",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:445",
+    "topic_area": "Human Resources Management",
+    "main_title": "Maintain marketing communications data security",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:193",
+    "topic_area": "Human Resources Management",
+    "main_title": "Explain security considerations in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:209",
+    "topic_area": "Operations",
+    "main_title": "",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:099",
+    "topic_area": "Operations",
+    "main_title": "Explain how to effectively incorpo rate video into multimedia",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:039",
+    "topic_area": "Operations",
+    "main_title": "Integrate software applications to prepare promotional materials",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:038",
+    "topic_area": "Operations",
+    "main_title": "Demonstrate basic desktop publishing functions to prepare promotional materials",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:208",
+    "topic_area": "Operations",
+    "main_title": "Use analytics tracking tools for marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:103",
+    "topic_area": "Operations",
+    "main_title": "Mine databases for information useful in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:101",
+    "topic_area": "Operations",
+    "main_title": "Maintain databases of information for marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:115",
+    "topic_area": "Operations",
+    "main_title": "Describe considerations in using databases in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:037",
+    "topic_area": "Operations",
+    "main_title": "Demonstrate effective use of audiovisual aids",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:097",
+    "topic_area": "Operations",
+    "main_title": "Discuss considerations in using mobile technology for promotional activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:053",
+    "topic_area": "Operations",
+    "main_title": "Explain the capabilities of tools used in web - site creation",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:096",
+    "topic_area": "Operations",
+    "main_title": "Compare the capabilities of SMS with MMS",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:100",
+    "topic_area": "Operations",
+    "main_title": "Explain ways that technology impacts marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:220",
+    "topic_area": "Operations",
+    "main_title": "Describe services offered by the marketing - communications industry",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:091",
+    "topic_area": "Operations",
+    "main_title": "Explain the concept of “product” in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:422",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe certifications available in digital marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:421",
+    "topic_area": "Product/Service Management",
+    "main_title": "Discuss career opportunities in digital marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:145",
+    "topic_area": "Product/Service Management",
+    "main_title": "Assess the services of professional organizations in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:142",
+    "topic_area": "Product/Service Management",
+    "main_title": "I dentify requirements for professional certifications in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:127",
+    "topic_area": "Product/Service Management",
+    "main_title": "Conduct self - assessment of marketing - communications skill set",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:159",
+    "topic_area": "Product/Service Management",
+    "main_title": "Analyze marketing communications careers to determine careers of interest",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:113",
+    "topic_area": "Product/Service Management",
+    "main_title": "Discuss the economic and social effects of marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:118",
+    "topic_area": "Product/Service Management",
+    "main_title": "",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:045",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe traits important to the success of employees in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "IM:371",
+    "topic_area": "Professional Development",
+    "main_title": "Interpret qualitative research findings",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:299",
+    "topic_area": "Professional Development",
+    "main_title": "Analyze customer behavior (e.g., media - consumption, buying, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:411",
+    "topic_area": "Professional Development",
+    "main_title": "Track trends (e.g., social, buying, social media, advertising agency, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:430",
+    "topic_area": "Professional Development",
+    "main_title": "Manage online brand and reputation",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:468",
+    "topic_area": "Professional Development",
+    "main_title": "Monitor daily social - media analytics",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:429",
+    "topic_area": "Professional Development",
+    "main_title": "Monitor competitors' promotional effort s",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:410",
+    "topic_area": "Professional Development",
+    "main_title": "Track performance of promotional activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:323",
+    "topic_area": "Professional Development",
+    "main_title": "Conduct pre - campaign testing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:361",
+    "topic_area": "Professional Development",
+    "main_title": "Gather brand information",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:274",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Establish credibility with Internet users",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:275",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Identify opportunities in the social - media space",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:082",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the nature of product extension in services marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:187",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Generate marketing communications ideas",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:463",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain ethical considerations in digital marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:462",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Discuss the nature of digital marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:323",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the use of product placement",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:277",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Describe referral programs that can be used to buil d brand/promote products",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:321",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the use of celebrities/influencers as a WOM strategy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:273",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Describe considerations in developing customer evangelists",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:312",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain considerations in developing viral marketing campaigns",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:316",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the marketing - communications development process",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:117",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain considerations affecting global promotion",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:029",
+    "topic_area": "Promotion",
+    "main_title": "Describe the nature of target marketing in marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:028",
+    "topic_area": "Promotion",
+    "main_title": "Identify ways to segment markets for marketing communications",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:373",
+    "topic_area": "Market Planning",
+    "main_title": "Repurpose content for use in multiple platforms",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:372",
+    "topic_area": "Market Planning",
+    "main_title": "Write mobile marketing content",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:318",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of effective mobile ad copy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:390",
+    "topic_area": "Market Planning",
+    "main_title": "Develop and package content for social distribution",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:389",
+    "topic_area": "Market Planning",
+    "main_title": "Maintain a consistent brand voice in social content",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:371",
+    "topic_area": "Market Planning",
+    "main_title": "Write content for use in social media",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:370",
+    "topic_area": "Market Planning",
+    "main_title": "Write content for use on the website",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:166",
+    "topic_area": "Market Planning",
+    "main_title": "Execu te targeted emails",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:362",
+    "topic_area": "Market Planning",
+    "main_title": "Write email marketing copy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:279",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the nature of effective Internet ad copy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:122",
+    "topic_area": "Market Planning",
+    "main_title": "Write direct - mail letters",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:294",
+    "topic_area": "Market Planning",
+    "main_title": "Discuss the nature of effective direct - mail copy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:368",
+    "topic_area": "Market Planning",
+    "main_title": "Write copy for advertisements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:126",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the nature of copy strategies",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:388",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the use of storytelling in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:330",
+    "topic_area": "Market Planning",
+    "main_title": "Identify effective advertising headlines",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:300",
+    "topic_area": "Market Planning",
+    "main_title": "Discuss the use of social bookmarking/tagging",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:298",
+    "topic_area": "Market Planning",
+    "main_title": "Discuss the use of podcasts/webcasts",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:324",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the use of RSS feeds",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:226",
+    "topic_area": "Market Planning",
+    "main_title": "Create a press kit",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:268",
+    "topic_area": "Market Planning",
+    "main_title": "Create a public - service announcement",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:376",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the impact of digital techniques on public relations practices",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:231",
+    "topic_area": "Market Planning",
+    "main_title": "Identify techniques to increase ad response time",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:132",
+    "topic_area": "Market Planning",
+    "main_title": "Select placement of advertisements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:131",
+    "topic_area": "Market Planning",
+    "main_title": "Schedule ads and commercials",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:340",
+    "topic_area": "Market Planning",
+    "main_title": "Negotiate terms with media owner",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:348",
+    "topic_area": "Market Planning",
+    "main_title": "Read media schedule",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:130",
+    "topic_area": "Market Planning",
+    "main_title": "Check advertising proofs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:274",
+    "topic_area": "Market Planning",
+    "main_title": "Describe digital color concepts",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:314",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the impact o f color harmonies on composition",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:334",
+    "topic_area": "Market Planning",
+    "main_title": "Identify types of drawing media",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:076",
+    "topic_area": "Market Planning",
+    "main_title": "Coordinate activities in the promotional mix",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:073",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the nature of a promotional plan",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:081",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the use of advertising agencies",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:236",
+    "topic_area": "Market Planning",
+    "main_title": "Participate in trade shows/expositions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:254",
+    "topic_area": "Market Planning",
+    "main_title": "audiences",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:235",
+    "topic_area": "Market Planning",
+    "main_title": "Set up cross - promotions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:233",
+    "topic_area": "Market Planning",
+    "main_title": "",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:266",
+    "topic_area": "Market Planning",
+    "main_title": "Collaborate in the design of slogans/taglines",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:391",
+    "topic_area": "Market Planning",
+    "main_title": "Create promotional signage",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:282",
+    "topic_area": "Market Planning",
+    "main_title": "Describe the use of crisis management in public relations",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:313",
+    "topic_area": "Market Planning",
+    "main_title": "Explain current issues/trends in public relations",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:056",
+    "topic_area": "Market Planning",
+    "main_title": "Analyze costs/benefits of company participation in community activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:398",
+    "topic_area": "Market Planning",
+    "main_title": "Provide service after the sale",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:395",
+    "topic_area": "Market Planning",
+    "main_title": "Present an advertising campaign to clients",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:347",
+    "topic_area": "Market Planning",
+    "main_title": "Pitch marketing communications idea to client",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:360",
+    "topic_area": "Market Planning",
+    "main_title": "Acquire knowledge of client's products/brands",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:381",
+    "topic_area": "Selling",
+    "main_title": "Implement digital marketing campaign",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:395",
+    "topic_area": "Selling",
+    "main_title": "Implement strategies to grow social - media following",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:379",
+    "topic_area": "Selling",
+    "main_title": "Leverage social networks for customer engagement",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:394",
+    "topic_area": "Selling",
+    "main_title": "Moderate social chats",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:094",
+    "topic_area": "Selling",
+    "main_title": "Analyze the impact of technology on marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:437",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Document marketing processes",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:431",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Apply marketing analytics",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:430",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Cleanse existing marketing data to maintain relevancy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:173",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Explain security considerations in marketing management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:429",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Maintain security of marketing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:435",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Evaluate options to purchase or sell marketing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:434",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "Determine sources of relevant, new marketing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:233",
+    "topic_area": "Operations",
+    "main_title": "Evaluate adequacy of product packaging",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:236",
+    "topic_area": "Operations",
+    "main_title": "Evaluate graphic design on packages",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:213",
+    "topic_area": "Operations",
+    "main_title": "Assess product - packaging requirements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:241",
+    "topic_area": "Operations",
+    "main_title": "Explain new product - development processes",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:278",
+    "topic_area": "Operations",
+    "main_title": "Determine the impact of product standards' issues associated with global business",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:133",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain career opportunities in marketing management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:136",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the nature of marketing management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:132",
+    "topic_area": "Product/Service Management",
+    "main_title": "Employ career - advancement strategies in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:147",
+    "topic_area": "Product/Service Management",
+    "main_title": "certifications, journals, online activities/courses)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:144",
+    "topic_area": "Product/Service Management",
+    "main_title": "Assess the services of professional organizations in marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:473",
+    "topic_area": "Professional Development",
+    "main_title": "Leverage data to support real - time customization of customer interactions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:472",
+    "topic_area": "Professional Development",
+    "main_title": "Leverage data to recommend personalized, relevant campaigns",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:390",
+    "topic_area": "Professional Development",
+    "main_title": "Prepare written reports for decision - making",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:386",
+    "topic_area": "Professional Development",
+    "main_title": "Prepare and use presentation software to support reports",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:394",
+    "topic_area": "Professional Development",
+    "main_title": "Provide sales analysis reports",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:347",
+    "topic_area": "Professional Development",
+    "main_title": "Display data in charts/graphs or in tables",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:380",
+    "topic_area": "Professional Development",
+    "main_title": "Obtain and track information about domestic and foreign suppliers/man ufacturers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:485",
+    "topic_area": "Professional Development",
+    "main_title": "Collect product quality data to aid in making channel - management decisions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:470",
+    "topic_area": "Professional Development",
+    "main_title": "Track channel management cost data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:228",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Develop positioning concept for a new product idea",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:335",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Identify ways to track marketing - communications activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:271",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Create written briefs for outside agencies/consultants",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:347",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Prop ose community issues for company involvement",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:315",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the importance of company involvement in community activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:143",
+    "topic_area": "Promotion",
+    "main_title": "Assess the services of professional organizations in marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:129",
+    "topic_area": "Promotion",
+    "main_title": "Determine professional certification requirements in marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:139",
+    "topic_area": "Promotion",
+    "main_title": "Explain the role and responsibilities of marketing researchers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:140",
+    "topic_area": "Promotion",
+    "main_title": "Identify career opportunities in marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:174",
+    "topic_area": "Professional Development",
+    "main_title": "Explain security considerations in marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:213",
+    "topic_area": "Operations",
+    "main_title": "Identify emerging customer trends through social networking",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:095",
+    "topic_area": "Operations",
+    "main_title": "Assess the impact of technology on marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:359",
+    "topic_area": "Information Management",
+    "main_title": "Explain the nature of actionable research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:373",
+    "topic_area": "Information Management",
+    "main_title": "Measure market size and composition",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:475",
+    "topic_area": "Information Management",
+    "main_title": "Develop insights using trends occurring in other industries",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:435",
+    "topic_area": "Information Management",
+    "main_title": "Monitor competitors' activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:368",
+    "topic_area": "Information Management",
+    "main_title": "replenishment systems, electronic data interchange [EDI], an d reader - sorters)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:409",
+    "topic_area": "Information Management",
+    "main_title": "economic changes, regulatory changes, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:333",
+    "topic_area": "Information Management",
+    "main_title": "Data mine clickstream data using web analytics for marketing information",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:434",
+    "topic_area": "Information Management",
+    "main_title": "regulations, consumer issues)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:433",
+    "topic_area": "Information Management",
+    "main_title": "Conduct sentiment analysis",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:382",
+    "topic_area": "Information Management",
+    "main_title": "forums, listserves, web analytics, social media, geolocation services, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:474",
+    "topic_area": "Information Management",
+    "main_title": "Identify cha llenges with the use of unstructured data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:432",
+    "topic_area": "Information Management",
+    "main_title": "channels)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:381",
+    "topic_area": "Information Management",
+    "main_title": "Obtain information from customer databases",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:304",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "selecting mechanical analysis approaches)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:397",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Select an d use appropriate data support systems",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:331",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Create data matrix",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:402",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Tabulate data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:452",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Transcribe conversations/interviews",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:318",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Conduct error detection/edit routines",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:451",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Apply methods to treat missing data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:362",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Code research data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:348",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Edit/clean research data",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:322",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Conduct in - depth interviews",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:463",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Test alternatives (e .g., web pages, ads, appeals, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:349",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "video recording)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:328",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Conduct telephone interviews",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:297",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Administer questionnaires",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:450",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Apply approaches to increase participant cooperation with data collection",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:286",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "intention scales, etc.)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:441",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Describe statistical concepts associated with sampling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:440",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Discuss sampling techniques and issues associated with Internet sampling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:439",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain sam pling techniques for probability and non - probability samples",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:438",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Discuss sampling issues with international marketing research projects",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:437",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Select sample sources in marketing research",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:478",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "lists)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:436",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the nature of the sampling design process",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:313",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Conduct advertising tracking studies",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:375",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Measure response rates",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:374",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Measure media audience",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:383",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Post marketing research results electronically",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:391",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Present findings orally",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:414",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Write executive summary of research report",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:370",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Interpret correlations",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:416",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Interpret descriptive statistics for marketing decision making",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:308",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Apply mathematical modeling techniques",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:369",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Identify types of modeling techniques",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:412",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Use statistical inferences to make estimates or to test hypotheses",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:405",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Test for significant differences",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:403",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Test for associations",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:404",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Test for relationships",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:400",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Set confidence levels",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:108",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Maintain order logs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:102",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Maintain purchase orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:104",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Obtain information from retail databases to aid in product planning and control",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:107",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Utilize merchandising software",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:041",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Analyze the impact of technology on retailing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MK:020",
+    "topic_area": "Information Management",
+    "main_title": "Explain the importance of merchandising to retailers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "MK:003",
+    "topic_area": "Information Management",
+    "main_title": "Distinguish between retailing and marketing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "EC:102",
+    "topic_area": "Marketing",
+    "main_title": "Explain current retail trends driven by global trade",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "EC:094",
+    "topic_area": "Marketing",
+    "main_title": "Identify the effects of global trade on retailing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:378",
+    "topic_area": "Economics",
+    "main_title": "Discuss the use of electronic data interchange (EDI)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:377",
+    "topic_area": "Economics",
+    "main_title": "Explain distribution issues and trends",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:195",
+    "topic_area": "Economics",
+    "main_title": "Open/Close register/terminal",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:194",
+    "topic_area": "Economics",
+    "main_title": "Prepare cash drawers/banks",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:040",
+    "topic_area": "Economics",
+    "main_title": "Follow up orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:172",
+    "topic_area": "Economics",
+    "main_title": "Devise/Enact merchandise security measures to minimize inventory shrinkage",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:122",
+    "topic_area": "Economics",
+    "main_title": "Explain policies/procedures for handling shoplifters",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:417",
+    "topic_area": "Operations",
+    "main_title": "Implement category management process",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:412",
+    "topic_area": "Operations",
+    "main_title": "Track stock by location for department/class/vendor level",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:411",
+    "topic_area": "Operations",
+    "main_title": "Allocate merchandise to stores/regions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:410",
+    "topic_area": "Operations",
+    "main_title": "Monitor merchandise classification system",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:409",
+    "topic_area": "Operations",
+    "main_title": "Complete inventory counts",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:408",
+    "topic_area": "Operations",
+    "main_title": "Report out - of - stocks",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:398",
+    "topic_area": "Operations",
+    "main_title": "Enter product descriptions into a PoS system",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:395",
+    "topic_area": "Operations",
+    "main_title": "Rotate stock",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:394",
+    "topic_area": "Operations",
+    "main_title": "Route stock to sales floor",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:393",
+    "topic_area": "Operations",
+    "main_title": "Assign codes to each product item",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:392",
+    "topic_area": "Operations",
+    "main_title": "Identify hang - tag needs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:391",
+    "topic_area": "Operations",
+    "main_title": "Make and record price changes",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:390",
+    "topic_area": "Operations",
+    "main_title": "Price mark merchandise",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:254",
+    "topic_area": "Operations",
+    "main_title": "Plan merchandise assortment (e.g., styling, sizes, quantities, colors)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:223",
+    "topic_area": "Operations",
+    "main_title": "Determine quality of merchandise to offer",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:253",
+    "topic_area": "Operations",
+    "main_title": "Obtain samples",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:134",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain career opportunities in merchandising",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:128",
+    "topic_area": "Product/Service Management",
+    "main_title": "Describe the role of merchandisers in retailing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:148",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the evolution of retailing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:420",
+    "topic_area": "Professional Development",
+    "main_title": "Ensure timely delivery of advertised merchandise",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:298",
+    "topic_area": "Professional Development",
+    "main_title": "Analyze competitors' offerings",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:396",
+    "topic_area": "Professional Development",
+    "main_title": "Scan marketplace to identify factors that could influence merchandising decisions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:300",
+    "topic_area": "Professional Development",
+    "main_title": "Analyze information from suppliers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:243",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Identify components of a retail image",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:264",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Negotiate terms with suppliers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:263",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Choose vendors",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:232",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Establish reorde r points",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:262",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine when to buy/reorder",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:261",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine quantities to buy/reorder",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:260",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine what to buy/reorder",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:224",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine stock turnover",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:259",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Analyze the use of central buying",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:258",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Write purchase orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:193",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine final cost of purchases from domestic and international sources",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:192",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Compare and contrast buying from domestic sources with that of foreign sources",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:064",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan purchases",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:063",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:062",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan stock",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:257",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Identify emerging trends",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:219",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Create/maintain daily sales plan",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:058",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Calculate open - to - buy",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PM:061",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the nature of merchandise plans (budgets)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:077",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan/Schedule displays/themes with management",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:209",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "D evelop promotional calendar",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:047",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Create displays",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:114",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Set up point - of - sale displays and handouts",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:359",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Use lighting to highlight products",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:031",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Select and use display fixtures/forms",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:109",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Create promotional signs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:054",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Dismantle/Store displays/display fixtures/forms",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:052",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Maintain displays",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:026",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain types of display arrangements",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:349",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Read/Implement planograms",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:358",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Use cross - merchandising techniques",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:284",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine on - floor assortments",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:342",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Place merchandise for impact",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:302",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Distinguish between visual merchandising and display",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:023",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the use of visual merchandising in retailing",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:068",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Prepare store/department for special event",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:360",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan special events",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:346",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Proof ads",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:389",
+    "topic_area": "Promotion",
+    "main_title": "Monitor on - floor selling activities",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:396",
+    "topic_area": "Promotion",
+    "main_title": "Provide information about i ncoming merchandise to sales staff",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:153",
+    "topic_area": "Promotion",
+    "main_title": "Operate register/terminal",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:152",
+    "topic_area": "Promotion",
+    "main_title": "Accept checks from customers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:116",
+    "topic_area": "Promotion",
+    "main_title": "Calculate miscellaneous charges for retail sales",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:117",
+    "topic_area": "Promotion",
+    "main_title": "Process retail sales documentation",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:162",
+    "topic_area": "Promotion",
+    "main_title": "Process returns/exchanges",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:835",
+    "topic_area": "Promotion",
+    "main_title": "Process retail telephone orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:016",
+    "topic_area": "Promotion",
+    "main_title": "Sell gift certificates",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:009",
+    "topic_area": "Promotion",
+    "main_title": "Process special orders for retail sales",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:887",
+    "topic_area": "Promotion",
+    "main_title": "Pack and wrap purchases",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:023",
+    "topic_area": "Promotion",
+    "main_title": "Arrange delivery of purchases",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:489",
+    "topic_area": "Promotion",
+    "main_title": "Plan follow - up strategies for use in retail selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:875",
+    "topic_area": "Promotion",
+    "main_title": "Demonstrate suggestion selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:895",
+    "topic_area": "Promotion",
+    "main_title": "Close the sa le",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:874",
+    "topic_area": "Promotion",
+    "main_title": "Convert customer/client objections into selling points",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:374",
+    "topic_area": "Promotion",
+    "main_title": "Demonstrate good/service",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:114",
+    "topic_area": "Promotion",
+    "main_title": "Recommend specific products",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:111",
+    "topic_area": "Promotion",
+    "main_title": "Determine customer/client needs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:110",
+    "topic_area": "Promotion",
+    "main_title": "Establish relationship with customer/client",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:019",
+    "topic_area": "Promotion",
+    "main_title": "Explain the use of brand names in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:062",
+    "topic_area": "Selling",
+    "main_title": "Assess the services of professional organizations in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:141",
+    "topic_area": "Selling",
+    "main_title": "Identify professional certification requirements available for professional salespeople",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:131",
+    "topic_area": "Selling",
+    "main_title": "Discuss the economic and social effects of professional selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:055",
+    "topic_area": "Selling",
+    "main_title": "Explain employment opportunities in professional selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:120",
+    "topic_area": "Selling",
+    "main_title": "Explain the nature of professional selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:482",
+    "topic_area": "Customer Relations",
+    "main_title": "Prepare and/or assemble sales materials",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:067",
+    "topic_area": "Customer Relations",
+    "main_title": "Prepare sales presentation",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:366",
+    "topic_area": "Customer Relations",
+    "main_title": "Book appointments with prospective clients",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:377",
+    "topic_area": "Customer Relations",
+    "main_title": "Determine sales strategies",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:369",
+    "topic_area": "Customer Relations",
+    "main_title": "competitors' offerings)",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:400",
+    "topic_area": "Customer Relations",
+    "main_title": "Conduc t preliminary customer/client qualification",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:383",
+    "topic_area": "Customer Relations",
+    "main_title": "Explain the use of marketing - research information in professional selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:404",
+    "topic_area": "Customer Relations",
+    "main_title": "Identify emerging trends for use in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:490",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe the impact that digital communication is having on selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:380",
+    "topic_area": "Customer Relations",
+    "main_title": "Explain the impact of sales and buying cycles",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:334",
+    "topic_area": "Selling",
+    "main_title": "Describe the use of target marketing in professional selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "IM:301",
+    "topic_area": "Selling",
+    "main_title": "Analyze market information",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:372",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Conduct self - assessment of sales performance",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:384",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Gather customer/client feedback to improve service",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:397",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Provide post - sales service",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:283",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Prepare sales reports",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:057",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan follow - up strategies for use in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:487",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Present proposal",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:486",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Write p roduct/service proposal",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:474",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Process sales documentation",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:461",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Process telephone orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:459",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Process special orders",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:475",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Calculate miscellaneous charges",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "SE:073",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Sell good/service/idea to groups",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:046",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Sell good/service/idea to individuals",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:485",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Oversee fulfillmen t/completion of sale",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:392",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Negotiate sales terms/agreement",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:893",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Demonstrate product solution for prospect's needs",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:113",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Assess prospect's needs in relation to product offering",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:484",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:811",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Facilitate prospect's buying decisions",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:883",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Determine prospect's buying motives for use in selling",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:810",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Respond appropriately to prospect's individual personality type",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:379",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Develop strategies to win back former customers",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:864",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Plan strategies for meeting sales quotas",
+    "cluster_tag": "Marketing",
+    "difficulty_label": "SP"
+  }
+]

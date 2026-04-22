@@ -1,0 +1,2494 @@
+[
+  {
+    "card_id": "CR:024",
+    "topic_area": "Strategic Management",
+    "main_title": "Use Customer Relationship Manag ement (CRM) technology",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:012",
+    "topic_area": "Strategic Management",
+    "main_title": "Explain the responsibilities of finance professionals in providing client services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "BL:149",
+    "topic_area": "Customer Relations",
+    "main_title": "Describe the use of technology in compliance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:148",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss the nature and scope of compliance in the finance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:134",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss the effect of tax laws and regulations on financial transactions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:133",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss legal considerations in the finance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:663",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of cost allocation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:662",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of cost accounting budgets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:238",
+    "topic_area": "Information Management",
+    "main_title": "Calculate the time value of money",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:630",
+    "topic_area": "Information Management",
+    "main_title": "Explain the nature of statements of changes in equity",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:275",
+    "topic_area": "Information Management",
+    "main_title": "Interpret securities table",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:274",
+    "topic_area": "Information Management",
+    "main_title": "Describe sources of securities information",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:575",
+    "topic_area": "Information Management",
+    "main_title": "Explain the nature and scope of financial globalization",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:574",
+    "topic_area": "Information Management",
+    "main_title": "Describe the relationship between economic conditions and financial markets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:337",
+    "topic_area": "Information Management",
+    "main_title": "commodities markets, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:336",
+    "topic_area": "Information Management",
+    "main_title": "Describe the role of financial institutions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FM:014",
+    "topic_area": "Financial Analysis",
+    "main_title": "Demonstrate financial analysis applications",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:013",
+    "topic_area": "Financial Analysis",
+    "main_title": "Demonstrate budgeting applications",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:011",
+    "topic_area": "Financial Analysis",
+    "main_title": "Describe the use of technology in the financial - information management function",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:003",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain the role of ethics in financial - information management",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:002",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain the nature and scope of the financial - information management function",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:303",
+    "topic_area": "Financial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          -            Information Management",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:301",
+    "topic_area": "Financial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          -            Information Management",
+    "main_title": "Ascertain employee's role in achieving governance objectives",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:153",
+    "topic_area": "Financial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          -            Information Management",
+    "main_title": "Discuss opportunities for building professional relationships in finance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:152",
+    "topic_area": "Financial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          -            Information Management",
+    "main_title": "Discuss employment opportunities in the finance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "RM:058",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of risk control (i.e., internal and external)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:016",
+    "topic_area": "Risk Management",
+    "main_title": "based costing [ABC], six sigma)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FM:009",
+    "topic_area": "Risk Management",
+    "main_title": "Describe techniques used to analyze customer financial information",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:678",
+    "topic_area": "Risk Management",
+    "main_title": "Account for cash payments (e.g., record cash, record expenses)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:677",
+    "topic_area": "Risk Management",
+    "main_title": "Account for cash receipts (e.g., record cash, record income)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:676",
+    "topic_area": "Risk Management",
+    "main_title": "Account for petty cash",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:396",
+    "topic_area": "Risk Management",
+    "main_title": "Reconcile cash",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:113",
+    "topic_area": "Risk Management",
+    "main_title": "clearing, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:387",
+    "topic_area": "Risk Management",
+    "main_title": "Prepare worksheets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:675",
+    "topic_area": "Risk Management",
+    "main_title": "Identify and correct accounting errors",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:386",
+    "topic_area": "Risk Management",
+    "main_title": "Prepare a post - closing trial balance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:385",
+    "topic_area": "Risk Management",
+    "main_title": "Journalize and post closing entries",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:384",
+    "topic_area": "Risk Management",
+    "main_title": "Journalize and post adjusting entries",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:383",
+    "topic_area": "Risk Management",
+    "main_title": "Prepare a trial balance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:382",
+    "topic_area": "Risk Management",
+    "main_title": "Post journal entries to general ledger accounts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:381",
+    "topic_area": "Risk Management",
+    "main_title": "Journalize business transactions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:407",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of special journals",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:379",
+    "topic_area": "Risk Management",
+    "main_title": "Prepare a chart of accounts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:378",
+    "topic_area": "Risk Management",
+    "main_title": "Demonstrate the effects of transactions on the accounting equation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:674",
+    "topic_area": "Risk Management",
+    "main_title": "Distinguish among types of business documentation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:673",
+    "topic_area": "Risk Management",
+    "main_title": "Distinguish among types of business transactions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:342",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of the accounting cycle",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "BL:154",
+    "topic_area": "Financial Analysis",
+    "main_title": "Comply with state regulations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:090",
+    "topic_area": "Financial Analysis",
+    "main_title": "Discuss state regulation of the accounting industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:088",
+    "topic_area": "Financial Analysis",
+    "main_title": "Comply with financial reporting and internal control regulations in accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:153",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain financial disclosure regulations and policies",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:443",
+    "topic_area": "Business Law",
+    "main_title": "Prepare federal, state, and local payroll tax returns and reports",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:687",
+    "topic_area": "Business Law",
+    "main_title": "Process payroll payments and remittances (e.g., employees, benefits, taxes)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:686",
+    "topic_area": "Business Law",
+    "main_title": "Account for payroll transactions (e.g., earnings, taxes, benefits, other deductions)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:442",
+    "topic_area": "Business Law",
+    "main_title": "Calculate payroll taxes",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:439",
+    "topic_area": "Business Law",
+    "main_title": "Calculate employee deductions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:438",
+    "topic_area": "Business Law",
+    "main_title": "Calculate employee earnings",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:134",
+    "topic_area": "Business Law",
+    "main_title": "Maintain employee earnings records (e.g. , timecards, time sheets, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:638",
+    "topic_area": "Business Law",
+    "main_title": "compensation, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:436",
+    "topic_area": "Business Law",
+    "main_title": "Determine the cost/value of inventory",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:586",
+    "topic_area": "Business Law",
+    "main_title": "Explain methods used to value inventory (e.g., FIFO, LIFO, average cost, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:435",
+    "topic_area": "Business Law",
+    "main_title": "Process inventory ad justments (e.g., shrinkage, obsolescence, returns, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:432",
+    "topic_area": "Business Law",
+    "main_title": "Record inventory transactions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:683",
+    "topic_area": "Business Law",
+    "main_title": "etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:682",
+    "topic_area": "Business Law",
+    "main_title": "Account for sales (e.g., invoices, sales receipts, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:424",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of accounts receivable",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:680",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:679",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:409",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of accounts payable",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:449",
+    "topic_area": "Business Law",
+    "main_title": "accounts, depreciation, debt)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:388",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the nature of annual reports",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:725",
+    "topic_area": "Business Law",
+    "main_title": "production, just - in - time [JIT], etc.) on managerial a ccounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:724",
+    "topic_area": "Business Law",
+    "main_title": "Explain the role of transfer pricing in managerial accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:723",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of flexible budgets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:722",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the role of standard costing in the preparation and analysis of budgets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:721",
+    "topic_area": "Business Law",
+    "main_title": "return on investment [ROI], customer profitability analysis, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:720",
+    "topic_area": "Business Law",
+    "main_title": "Distinguish between variable costing and absorption costing",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:719",
+    "topic_area": "Business Law",
+    "main_title": "costing [ABC])",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:718",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the use of cost - volume - profit analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:717",
+    "topic_area": "Business Law",
+    "main_title": "revenue)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:485",
+    "topic_area": "Business Law",
+    "main_title": "Identify tax issues for clients",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:698",
+    "topic_area": "Business Law",
+    "main_title": "Prepare tax returns for clients (i.e., individuals and business)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:697",
+    "topic_area": "Business Law",
+    "main_title": "Account for taxes",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:696",
+    "topic_area": "Business Law",
+    "main_title": "Calculate taxes owed by clients (i.e., individual and business)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:484",
+    "topic_area": "Business Law",
+    "main_title": "Explain record keeping procedures for tax accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:693",
+    "topic_area": "Business Law",
+    "main_title": "Account for provisions (e.g., restruc turings, warranties, customer refunds, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:692",
+    "topic_area": "Business Law",
+    "main_title": "Account for long - term liabilities (e.g., bonds payable, notes payable, leases, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:691",
+    "topic_area": "Business Law",
+    "main_title": "disposal)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:690",
+    "topic_area": "Business Law",
+    "main_title": "natural resources, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:642",
+    "topic_area": "Business Law",
+    "main_title": "etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:133",
+    "topic_area": "Business Law",
+    "main_title": "Integrate technology into accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:226",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of Extensible Business Reporting Language (XBRL)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:225",
+    "topic_area": "Business Law",
+    "main_title": "Use accounting applications and systems",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:460",
+    "topic_area": "Information Management",
+    "main_title": "Process preliminary budget detail",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:394",
+    "topic_area": "Information Management",
+    "main_title": "Project future revenues and expenses",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:728",
+    "topic_area": "Information Management",
+    "main_title": "Explain types of budgeting systems (e.g., top - down, bottom - up, incremental, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:726",
+    "topic_area": "Information Management",
+    "main_title": "based costing [ABC])",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:451",
+    "topic_area": "Information Management",
+    "main_title": "Calculate the cost of goods sold",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:450",
+    "topic_area": "Information Management",
+    "main_title": "Maintain job order cost sheets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:482",
+    "topic_area": "Information Management",
+    "main_title": "Conduct audit engagements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:714",
+    "topic_area": "Information Management",
+    "main_title": "Describe auditing techniques/procedures",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:713",
+    "topic_area": "Information Management",
+    "main_title": "Distinguish between internal and external audits",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:344",
+    "topic_area": "Information Management",
+    "main_title": "Explain the nature of audits and assurance engagements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:706",
+    "topic_area": "Information Management",
+    "main_title": "Assess financial accounting fraud risk",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:341",
+    "topic_area": "Operations",
+    "main_title": "Discuss the nature of auditing/attestation standards",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:340",
+    "topic_area": "Operations",
+    "main_title": "Discuss the levels and types of external financial reporting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:296",
+    "topic_area": "Operations",
+    "main_title": "Reporting Standards (IFRS)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:295",
+    "topic_area": "Operations",
+    "main_title": "GASB)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:158",
+    "topic_area": "Operations",
+    "main_title": "Explain the nature of accounting standards",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:339",
+    "topic_area": "Operations",
+    "main_title": "Describe the services of professional organizations in accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:168",
+    "topic_area": "Operations",
+    "main_title": "Discuss professional designations for accountants (e.g., CPA, CMA, CIA, CFE, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:338",
+    "topic_area": "Operations",
+    "main_title": "Explain the roles and responsibilities of accounting professionals",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:337",
+    "topic_area": "Operations",
+    "main_title": "Identify career opportunities in accounting",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:544",
+    "topic_area": "Professional Development",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:543",
+    "topic_area": "Professional Development",
+    "main_title": "Explain key ratios/terms in banking",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:033",
+    "topic_area": "Financial Analysis",
+    "main_title": "Interpret loan terms for a client",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:020",
+    "topic_area": "Financial Analysis",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:032",
+    "topic_area": "Financial Analysis",
+    "main_title": "Assist a customer in the opening of an account",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:031",
+    "topic_area": "Financial Analysis",
+    "main_title": "Recommend bank solutions to meet client needs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CR:015",
+    "topic_area": "Financial Analysis",
+    "main_title": "Discuss the importance of meeting and exceeding customer expectations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "BL:146",
+    "topic_area": "Customer Relations",
+    "main_title": "Comply with banking regulations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:094",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss the responsibilities of regulatory agencies that oversee the banking industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:093",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss federal regulation of operations functions in banking services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:092",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss federal regulation of lending functions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:091",
+    "topic_area": "Customer Relations",
+    "main_title": "Discuss e - compliance issues in banking services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:221",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the elements and role of a bank security program",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:220",
+    "topic_area": "Business Law",
+    "main_title": "Describe crimes to which a bank co uld fall victim (e.g., fraud, robbery, phishing, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:219",
+    "topic_area": "Business Law",
+    "main_title": "Explain procedures for detecting and reporting counterfeit currency",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:218",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the secure handling of checks",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:217",
+    "topic_area": "Business Law",
+    "main_title": "Discuss procedures for the secure handling of cash",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:203",
+    "topic_area": "Operations",
+    "main_title": "safe deposit boxes, vaults, alarm systems, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:202",
+    "topic_area": "Operations",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:116",
+    "topic_area": "Operations",
+    "main_title": "Fill/empty ATMs (Automatic Teller Machines)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:117",
+    "topic_area": "Operations",
+    "main_title": "Discuss the impact of technology on the banking industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "FI:609",
+    "topic_area": "Information Management",
+    "main_title": "Explain economic and marketplace factors impacting bank portfolio quality",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:608",
+    "topic_area": "Information Management",
+    "main_title": "Describe the nature of bank investment portfolios",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:368",
+    "topic_area": "Information Management",
+    "main_title": "Manage receipts and payments for a trust",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:366",
+    "topic_area": "Information Management",
+    "main_title": "Explain the estate planning process",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:365",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the administrative duties associated with trusts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:364",
+    "topic_area": "Information Management",
+    "main_title": "Describe trust department policies and procedures",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:282",
+    "topic_area": "Information Management",
+    "main_title": "Describe the functions and responsibilities of the loan servicing department",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:363",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of the secondary mortgage market",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:281",
+    "topic_area": "Information Management",
+    "main_title": "Explain approaches to real estate lending",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:186",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the involvement of financial institutions in the real estate industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:280",
+    "topic_area": "Information Management",
+    "main_title": "Underwrite a loan application",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:279",
+    "topic_area": "Information Management",
+    "main_title": "Describe factors affecting loan pricing and loan structuring",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:278",
+    "topic_area": "Information Management",
+    "main_title": "Explain the process of credit analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:277",
+    "topic_area": "Information Management",
+    "main_title": "Describe the loan application generating process",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:276",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the role of the Federal Reserve system in banking operations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:446",
+    "topic_area": "Information Management",
+    "main_title": "cashier checks, bearer bonds)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:275",
+    "topic_area": "Information Management",
+    "main_title": "Identify requirements for transporting cash",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:274",
+    "topic_area": "Information Management",
+    "main_title": "Handle differences in cash received/deposited",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:273",
+    "topic_area": "Information Management",
+    "main_title": "Deposit checks",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:272",
+    "topic_area": "Information Management",
+    "main_title": "Order and deposit currency/coin",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:271",
+    "topic_area": "Information Management",
+    "main_title": "Process damaged and/or mutilated currency and coin",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:201",
+    "topic_area": "Information Management",
+    "main_title": "Explain the role of savings and loan associations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:200",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the role of credit unions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:195",
+    "topic_area": "Information Management",
+    "main_title": "Describe the nature of the national banking system",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:288",
+    "topic_area": "Information Management",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:191",
+    "topic_area": "Information Management",
+    "main_title": "Explain the evolution of commercial banking",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:192",
+    "topic_area": "Information Management",
+    "main_title": "Discuss ethical issues in the banking industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:300",
+    "topic_area": "Information Management",
+    "main_title": "Cross - sell banking products and services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:299",
+    "topic_area": "Information Management",
+    "main_title": "Describe international services available to customers",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:208",
+    "topic_area": "Information Management",
+    "main_title": "Describe trust services available to customers",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:155",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of loan products",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:298",
+    "topic_area": "Information Management",
+    "main_title": "Describe the importance of selling in the banking industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:207",
+    "topic_area": "Information Management",
+    "main_title": "Describe basic teller performance standards",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:423",
+    "topic_area": "Information Management",
+    "main_title": "Describe types of banking products and services provided exclusively to busi nesses",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:154",
+    "topic_area": "Information Management",
+    "main_title": "Describe types of personal banking products and services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:204",
+    "topic_area": "Information Management",
+    "main_title": "Describe the nature of retail/business banking processes",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:287",
+    "topic_area": "Information Management",
+    "main_title": "Describe the services of professional organizations in banking services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:286",
+    "topic_area": "Information Management",
+    "main_title": "Discuss professional designations for banking professionals",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:285",
+    "topic_area": "Information Management",
+    "main_title": "Explain career opportunities in banking services",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:730",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of I nitial Public Offerings",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:729",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of stock options",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:528",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the cost of common stock",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:526",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the issuance of stock from a corporation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:524",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the cost of corporate bonds",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:523",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of corporate bonds",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:359",
+    "topic_area": "Risk Management",
+    "main_title": "Describe the nature of cash flows",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:345",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of depreciation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:155",
+    "topic_area": "Emotional Intelligence",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:236",
+    "topic_area": "Business Law",
+    "main_title": "interest payment for a bond, the effects of interest rates on the price of a bond, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:367",
+    "topic_area": "Business Law",
+    "main_title": "future dividends, the expected rate of return, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:360",
+    "topic_area": "Business Law",
+    "main_title": "Explain the role of capital markets in business finance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:741",
+    "topic_area": "Business Law",
+    "main_title": "Develop policies to manage trade credit",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:740",
+    "topic_area": "Business Law",
+    "main_title": "Evaluate leases",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:507",
+    "topic_area": "Business Law",
+    "main_title": "Prepare cash flow budgets/forecasts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:641",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the impact of obsolescence on business expense",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:639",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the impact of employee benefits on business financials",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:637",
+    "topic_area": "Business Law",
+    "main_title": "Analyze the impact of accounts receivable collection on working capital cycle",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:633",
+    "topic_area": "Business Law",
+    "main_title": "Analyze the impact of accounts payable schedules on working capital",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:505",
+    "topic_area": "Business Law",
+    "main_title": "Explain the use of cash budgets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:739",
+    "topic_area": "Business Law",
+    "main_title": "Des cribe cash management procedures",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:513",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of short - term financial management",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:735",
+    "topic_area": "Business Law",
+    "main_title": "Manage bank accounts (e.g., scope of services, fee structures, system integration)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:734",
+    "topic_area": "Business Law",
+    "main_title": "Describe components of a collection system",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:733",
+    "topic_area": "Business Law",
+    "main_title": "Describe components of a payment system",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:503",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the nature of short - term (operating) financial plans",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:502",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the financial planning process",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:530",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of dividend reinvestment plans (DRIPs)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:346",
+    "topic_area": "Business Law",
+    "main_title": "Explain forms of dividends",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:758",
+    "topic_area": "Business Law",
+    "main_title": "Manage pension investment portfolio",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:757",
+    "topic_area": "Business Law",
+    "main_title": "Manage investment portfolio",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:756",
+    "topic_area": "Business Law",
+    "main_title": "Manage loans",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:753",
+    "topic_area": "Business Law",
+    "main_title": "Monitor project portfolio",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:750",
+    "topic_area": "Business Law",
+    "main_title": "Identify project benefits and costs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:748",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:492",
+    "topic_area": "Business Law",
+    "main_title": "operating cash outflows, terminal flows)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:747",
+    "topic_area": "Business Law",
+    "main_title": "Calculate the cost of capital and its components (e.g., debt, equity)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:746",
+    "topic_area": "Business Law",
+    "main_title": "Explain the impact of the cost of capital on capital investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:745",
+    "topic_area": "Business Law",
+    "main_title": "net present value, accounting rate of return, internal rate of return, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:078",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of capital investment",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:772",
+    "topic_area": "Business Law",
+    "main_title": "Explain divestiture concepts (e.g., spin - offs, split - ups, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:536",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of hostile takeovers",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:347",
+    "topic_area": "Business Law",
+    "main_title": "Compare mergers and acquisitions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:548",
+    "topic_area": "Business Law",
+    "main_title": "Explain how value is created for a company",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:547",
+    "topic_area": "Business Law",
+    "main_title": "Discuss external forces affecting a company's value",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:546",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the analysis of a company's financial situation using its financial statements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:509",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the nature of pro forma statements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:769",
+    "topic_area": "Business Law",
+    "main_title": "Perform responsibility center budgeting (i.e., cost, profit, investment, revenue)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:768",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:221",
+    "topic_area": "Business Law",
+    "main_title": "etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:219",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the role and responsibilities of treasury management personnel",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:218",
+    "topic_area": "Business Law",
+    "main_title": "Describe the role and responsibilities of risk management personnel",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:215",
+    "topic_area": "Business Law",
+    "main_title": "Explain the role and responsibilities of financial management personnel",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:242",
+    "topic_area": "Professional Development",
+    "main_title": "Use treasury systems (e.g., cash management, budgeting, forecasting)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:241",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the nature of Extensible Business Reporting Language (XBRL)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:240",
+    "topic_area": "Professional Development",
+    "main_title": "Describe manual and computerized treasury systems",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "RM:048",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of risk measurement",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:047",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the relationship between risk management an d business finance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:083",
+    "topic_area": "Information Management",
+    "main_title": "Establish processes for timely reporting of required information",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:081",
+    "topic_area": "Information Management",
+    "main_title": "Establish monitoring programs for contract - specific revenue arrangements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:080",
+    "topic_area": "Information Management",
+    "main_title": "Evaluate alternative revenue arrangements (e.g., cost - plus pricing, contingent fees)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:079",
+    "topic_area": "Information Management",
+    "main_title": "Maintain contract compliance docume ntation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:077",
+    "topic_area": "Information Management",
+    "main_title": "transactions, financial report filing requirements)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:455",
+    "topic_area": "Risk Management",
+    "main_title": "Process insurance documentation",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:454",
+    "topic_area": "Risk Management",
+    "main_title": "Determine client's insurance needs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:453",
+    "topic_area": "Risk Management",
+    "main_title": "I nterview client",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:452",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the elements of an underwriting file",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:287",
+    "topic_area": "Risk Management",
+    "main_title": "Notify client in writing when policy is cancelled",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:135",
+    "topic_area": "Operations",
+    "main_title": "Use the Internet to determine a potential client's risk",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:134",
+    "topic_area": "Operations",
+    "main_title": "U se computer smart systems to assist in the underwriting process",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:204",
+    "topic_area": "Operations",
+    "main_title": "Use claims analytics",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:152",
+    "topic_area": "Information Management",
+    "main_title": "Co mply with insurance regulations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:137",
+    "topic_area": "Information Management",
+    "main_title": "HIPAA, Affordable Care Act)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:101",
+    "topic_area": "Information Management",
+    "main_title": "Discuss federal and state regulation governing the insurance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:292",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:223",
+    "topic_area": "Business Law",
+    "main_title": "Explain the use of state risk pool programs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:222",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the manner in which insurance companies generate income",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:224",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:291",
+    "topic_area": "Business Law",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:290",
+    "topic_area": "Business Law",
+    "main_title": "Explain ethical issues in insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:289",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the role of supervisory/regulatory bodies in the insurance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:157",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of the insurance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "OP:373",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of pricing and rate - making in insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:286",
+    "topic_area": "Professional Development",
+    "main_title": "Conduct surveillance work",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:285",
+    "topic_area": "Professional Development",
+    "main_title": "Investigate suspected insurance fraud",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:187",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of insurance fraud",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:293",
+    "topic_area": "Professional Development",
+    "main_title": "Negotiate with claimant",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:372",
+    "topic_area": "Professional Development",
+    "main_title": "Assign value to an insurance claim",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:371",
+    "topic_area": "Professional Development",
+    "main_title": "Evaluate injury claims and needed medical treatment",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:291",
+    "topic_area": "Professional Development",
+    "main_title": "Inspect property damage",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:290",
+    "topic_area": "Professional Development",
+    "main_title": "processing the claim",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:289",
+    "topic_area": "Professional Development",
+    "main_title": "Process an insurance claim",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:188",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of insurance claims",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:336",
+    "topic_area": "Professional Development",
+    "main_title": "Evaluate an existing client's insurance needs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:335",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of domestic and international business insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:308",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of annuities",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:334",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the role of life insurance in investment, retirement, and estate planning",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:333",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of long - term care insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:332",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of Medicare",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:331",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of Medicaid",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:330",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of workers compensati on insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:329",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of unemployment insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:328",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the nature of commercial liability insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:327",
+    "topic_area": "Professional Development",
+    "main_title": "Describe components of commercial property insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:326",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of title insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:325",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss components of flood and earthquake insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:324",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the nature of disability insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:323",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of life insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:322",
+    "topic_area": "Professional Development",
+    "main_title": "Expla in the nature of liability insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:321",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss components of homeowners/renters insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:320",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of health insurance coverage",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:319",
+    "topic_area": "Professional Development",
+    "main_title": "Describe components of automobile insurance coverage",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:294",
+    "topic_area": "Professional Development",
+    "main_title": "Describe the services of professional organizations in insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:225",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss licensing and certification in the insurance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:293",
+    "topic_area": "Professional Development",
+    "main_title": "Explain career opportunities in insurance",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RA:003",
+    "topic_area": "Professional Development",
+    "main_title": "Underwrite an ins urance policy",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RA:001",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the importance of actuarial science in the insurance industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RA:002",
+    "topic_area": "Professional Development",
+    "main_title": "Discuss the nature of credit - based insurance scores",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RA:004",
+    "topic_area": "Professional Development",
+    "main_title": "Explain insurance underwriting techniques and processes",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:035",
+    "topic_area": "Risk Analysis",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CR:034",
+    "topic_area": "Risk Analysis",
+    "main_title": "Follow up on the completion of the transaction",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CO:209",
+    "topic_area": "Customer Relations",
+    "main_title": "Update the client on events/changes impacting portfolio",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:208",
+    "topic_area": "Customer Relations",
+    "main_title": "Develop communication plans based on customer preferences",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CO:207",
+    "topic_area": "Customer Relations",
+    "main_title": "Initiate correspondence with customers regarding market activity",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:151",
+    "topic_area": "Communication Skills",
+    "main_title": "Comply with securities an d investments regulations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:105",
+    "topic_area": "Communication Skills",
+    "main_title": "Discuss laws and regulations governing the securities and investments industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "BL:104",
+    "topic_area": "Communication Skills",
+    "main_title": "Discuss ethical considerations in the securities and investments industry",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:671",
+    "topic_area": "Business Law",
+    "main_title": "Select real - estate investments based on qualitative and quantitat ive analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:670",
+    "topic_area": "Business Law",
+    "main_title": "Conduct qualitative and quantitative analysis of real - estate investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:284",
+    "topic_area": "Business Law",
+    "main_title": "Choose investments based on security's fundamental analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:282",
+    "topic_area": "Business Law",
+    "main_title": "Assess securities' fundamentals",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:669",
+    "topic_area": "Business Law",
+    "main_title": "Choose investments based on security's technical analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:668",
+    "topic_area": "Business Law",
+    "main_title": "etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:281",
+    "topic_area": "Business Law",
+    "main_title": "Interpret financial rati os significant to investors",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:283",
+    "topic_area": "Business Law",
+    "main_title": "Explain strategies for selecting investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:362",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of technical analysis",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:280",
+    "topic_area": "Business Law",
+    "main_title": "Explain fundamental analysis used in making investment decisions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:361",
+    "topic_area": "Business Law",
+    "main_title": "Explain the nature of a mutual fund prospectus",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:276",
+    "topic_area": "Business Law",
+    "main_title": "Explain information th at can be obtained from financial statements",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:279",
+    "topic_area": "Business Law",
+    "main_title": "Explain factors to consider when selecting investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:350",
+    "topic_area": "Business Law",
+    "main_title": "Describe the nature of diversification strategies",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:349",
+    "topic_area": "Business Law",
+    "main_title": "Discuss the nature of investment risk",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "FI:348",
+    "topic_area": "Business Law",
+    "main_title": "Discuss types of investment objectives",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:450",
+    "topic_area": "Financial Analysis",
+    "main_title": "Manage customer accounts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:449",
+    "topic_area": "Financial Analysis",
+    "main_title": "Process and settle securities transactions in accordance with transaction instructions",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:268",
+    "topic_area": "Financial Analysis",
+    "main_title": "Post transaction data to accounting, compliance, and investment systems",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:267",
+    "topic_area": "Financial Analysis",
+    "main_title": "Perform buy/sell functions to support trade execution",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "OP:266",
+    "topic_area": "Financial Analysis",
+    "main_title": "Discuss the functions of operations departments in securities and investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:224",
+    "topic_area": "Operations",
+    "main_title": "Translate findings into actionable investment recommendations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:223",
+    "topic_area": "Operations",
+    "main_title": "Interpret correlations for investment decision making",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:222",
+    "topic_area": "Operations",
+    "main_title": "Interpret descriptive statistics for investment decision making",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:221",
+    "topic_area": "Operations",
+    "main_title": "issues, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:220",
+    "topic_area": "Operations",
+    "main_title": "regulations, business issues)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:219",
+    "topic_area": "Operations",
+    "main_title": "forums, listserves, website, social media)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "NF:218",
+    "topic_area": "Operations",
+    "main_title": "Demonstrate proper use of securities and investments tools/technology",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "NF:217",
+    "topic_area": "Operations",
+    "main_title": "Discuss the impact of technology on securities and investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:244",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of international investment strategies",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:243",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of market timing",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:241",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the nature of margin accounts",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:240",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the role of investment banking in the primary marketplace",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:239",
+    "topic_area": "Information Management",
+    "main_title": "Discuss the relationship between bond prices and yields",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:238",
+    "topic_area": "Information Management",
+    "main_title": "Explain causes of stock price fluctuations",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:237",
+    "topic_area": "Information Management",
+    "main_title": "Explain the principal factors that affect securities markets",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:236",
+    "topic_area": "Information Management",
+    "main_title": "Describe how securities are traded",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:235",
+    "topic_area": "Information Management",
+    "main_title": "Describe types of securities and investment firms",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:234",
+    "topic_area": "Information Management",
+    "main_title": "Discuss considerations in selecting a securities sales agent",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:233",
+    "topic_area": "Information Management",
+    "main_title": "BCS, CSC, CFP, etc.)",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:232",
+    "topic_area": "Information Management",
+    "main_title": "Describe licensing exams required to sell securities and other financial products",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:231",
+    "topic_area": "Information Management",
+    "main_title": "",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "RM:075",
+    "topic_area": "Professional Development",
+    "main_title": "Explain the role of operations and compliance in risk management programs",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:317",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of real estate investments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:316",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of derivatives",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:315",
+    "topic_area": "Risk Management",
+    "main_title": "Describe the nature of commodities",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:314",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of hedge funds",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:313",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of bonds",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:312",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of stock adjustments",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:311",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of dividends",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:309",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of stocks",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:342",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of variable annuities",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:307",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the nature of education savings plans",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:306",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the nature of retirement investment plans",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:305",
+    "topic_area": "Risk Management",
+    "main_title": "Explain the rights of mutual fund shareholders",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:304",
+    "topic_area": "Risk Management",
+    "main_title": "Describe the nature of mutual funds",
+    "cluster_tag": "Finance",
+    "difficulty_label": "SP"
+  }
+]

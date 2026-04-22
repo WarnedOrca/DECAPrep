@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function StudentDashboard() {
   return (
     <>
@@ -29,40 +31,42 @@ export default function StudentDashboard() {
 <h2 className="text-xl font-bold mb-1">Strength vs Weakness Analysis</h2>
 <p className="text-sm text-slate-500">Performance distribution across DECA clusters</p>
 </div>
-<span className="material-symbols-outlined text-slate-400" data-icon="more_horiz">more_horiz</span>
+<Link to="/analytics" className="text-slate-400 hover:text-primary transition-colors">
+<span className="material-symbols-outlined" data-icon="more_horiz">more_horiz</span>
+</Link>
 </div>
 <div className="relative h-64 w-full flex items-end justify-between px-4">
 {/* Simulated Chart */}
-<div className="flex flex-col items-center gap-2 group w-full">
+<Link to="/clusters" className="flex flex-col items-center gap-2 group w-full cursor-pointer">
 <div className="w-full bg-primary/10 rounded-t-lg relative flex items-end h-48">
-<div className="w-full bg-primary rounded-t-lg transition-all" style={{ height: "85%" }}></div>
+<div className="w-full bg-primary rounded-t-lg transition-all group-hover:opacity-80" style={{ height: "85%" }}></div>
 </div>
 <span className="text-[10px] font-bold text-slate-400 uppercase">Marketing</span>
-</div>
-<div className="flex flex-col items-center gap-2 group w-full px-2">
+</Link>
+<Link to="/clusters" className="flex flex-col items-center gap-2 group w-full px-2 cursor-pointer">
 <div className="w-full bg-primary/10 rounded-t-lg relative flex items-end h-48">
-<div className="w-full bg-primary rounded-t-lg transition-all" style={{ height: "60%" }}></div>
+<div className="w-full bg-primary rounded-t-lg transition-all group-hover:opacity-80" style={{ height: "60%" }}></div>
 </div>
 <span className="text-[10px] font-bold text-slate-400 uppercase">Finance</span>
-</div>
-<div className="flex flex-col items-center gap-2 group w-full px-2">
+</Link>
+<Link to="/clusters" className="flex flex-col items-center gap-2 group w-full px-2 cursor-pointer">
 <div className="w-full bg-primary/10 rounded-t-lg relative flex items-end h-48">
-<div className="w-full bg-primary rounded-t-lg transition-all" style={{ height: "40%" }}></div>
+<div className="w-full bg-primary rounded-t-lg transition-all group-hover:opacity-80" style={{ height: "40%" }}></div>
 </div>
 <span className="text-[10px] font-bold text-slate-400 uppercase">Bus. Admin</span>
-</div>
-<div className="flex flex-col items-center gap-2 group w-full px-2">
+</Link>
+<Link to="/clusters" className="flex flex-col items-center gap-2 group w-full px-2 cursor-pointer">
 <div className="w-full bg-primary/10 rounded-t-lg relative flex items-end h-48">
-<div className="w-full bg-primary rounded-t-lg transition-all" style={{ height: "92%" }}></div>
+<div className="w-full bg-primary rounded-t-lg transition-all group-hover:opacity-80" style={{ height: "92%" }}></div>
 </div>
 <span className="text-[10px] font-bold text-slate-400 uppercase">Hospitality</span>
-</div>
-<div className="flex flex-col items-center gap-2 group w-full px-2">
+</Link>
+<Link to="/clusters" className="flex flex-col items-center gap-2 group w-full px-2 cursor-pointer">
 <div className="w-full bg-primary/10 rounded-t-lg relative flex items-end h-48">
-<div className="w-full bg-primary rounded-t-lg transition-all" style={{ height: "75%" }}></div>
+<div className="w-full bg-primary rounded-t-lg transition-all group-hover:opacity-80" style={{ height: "75%" }}></div>
 </div>
 <span className="text-[10px] font-bold text-slate-400 uppercase">Entrepreneur</span>
-</div>
+</Link>
 </div>
 </div>
 {/* Recommendation Engine */}
@@ -76,14 +80,14 @@ export default function StudentDashboard() {
 <h3 className="text-2xl font-bold mb-2">Finance: Risk Management</h3>
 <p className="text-sm text-primary-fixed/80 font-light leading-relaxed">Based on your recent practice exams, you have a 12% gap in understanding Corporate Liability structures.</p>
 </div>
-<button className="mt-6 w-full py-3 bg-white text-primary font-bold rounded-lg hover:bg-opacity-90 transition-all flex items-center justify-center gap-2">
+<Link to="/database" className="mt-6 w-full py-3 bg-white text-primary font-bold rounded-lg hover:bg-opacity-90 transition-all flex items-center justify-center gap-2">
                             Start Study Set
                             <span className="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
-</button>
+</Link>
 </div>
 </div>
 {/* Mastery Levels Column */}
-<div className="md:col-span-6 bg-surface-container-low rounded-xl p-8">
+<Link to="/database" className="md:col-span-6 bg-surface-container-low rounded-xl p-8 block hover:shadow-md transition-shadow">
 <h3 className="text-lg font-bold mb-6 flex items-center gap-2">
 <span className="material-symbols-outlined text-primary" data-icon="verified">verified</span>
                         Performance Indicators
@@ -126,7 +130,7 @@ export default function StudentDashboard() {
 </div>
 </div>
 </div>
-</div>
+</Link>
 {/* Stats & Progress Bento Items */}
 <div className="md:col-span-3 grid grid-rows-2 gap-6">
 <div className="bg-surface-container-lowest p-6 rounded-xl border border-slate-100 flex flex-col justify-between">
@@ -172,9 +176,9 @@ export default function StudentDashboard() {
 <p className="text-slate-500 text-sm">You are 4 units away from the International Career Development Conference qualification threshold.</p>
 </div>
 </div>
-<button className="px-8 py-3 bg-secondary text-white font-bold rounded-lg hover:bg-on-surface transition-colors whitespace-nowrap">
+<Link to="/analytics" className="px-8 py-3 bg-secondary text-white font-bold rounded-lg hover:bg-on-surface transition-colors whitespace-nowrap">
                         View Full Roadmap
-                    </button>
+                    </Link>
 </div>
 </section>
 </div>

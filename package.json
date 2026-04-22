@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.27",
+    "minisearch": "^7.2.0",
     "postcss": "^8.5.8",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-router-dom": "^7.14.0",
+    "react-virtualized-auto-sizer": "^2.0.3",
+    "react-window": "^2.2.7",
     "tailwindcss": "^3.4.19"
   },
   "devDependencies": {

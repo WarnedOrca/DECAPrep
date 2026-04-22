@@ -1,0 +1,156 @@
+[
+  {
+    "card_id": "EC:009",
+    "topic_area": "Business Law",
+    "main_title": "Explain the concept of private enterprise",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PD:214",
+    "topic_area": "Risk Management",
+    "main_title": "transparency, inter nal and external audit functions)",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:302",
+    "topic_area": "Risk Management",
+    "main_title": "Identify the factors that impact governance structures",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PD:213",
+    "topic_area": "Risk Management",
+    "main_title": "Discuss the importance of corporate governance in business",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "MP:001",
+    "topic_area": "Financial Analysis",
+    "main_title": "Explain the concept of marketing strategies",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "IM:010",
+    "topic_area": "Market Planning",
+    "main_title": "Explain the na ture of marketing research",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "CM:003",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the nature of channels of distribution",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "CM:001",
+    "topic_area": "Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      -            Information Management",
+    "main_title": "Explain the nature and scope of channel management",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PI:002",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain factors affecting pricing decisions",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PI:001",
+    "topic_area": "Product/Service Management",
+    "main_title": "Explain the nature and scope of the pricing function",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "MP:003",
+    "topic_area": "Pricing",
+    "main_title": "Explain the concept of market and market identification",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:250",
+    "topic_area": "Pricing",
+    "main_title": "Explain communications channels used in public - relations a ctivities",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:249",
+    "topic_area": "Pricing",
+    "main_title": "Identify communications channels used in sales promotion",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:089",
+    "topic_area": "Pricing",
+    "main_title": "Explain the nature of direct marketing channels",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:247",
+    "topic_area": "Pricing",
+    "main_title": "Describe word - of - mouth channels used to communicate with targeted audiences",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:007",
+    "topic_area": "Pricing",
+    "main_title": "Explain types of advertising media",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:003",
+    "topic_area": "Pricing",
+    "main_title": "Identify the elements of the promotional mix",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "PR:002",
+    "topic_area": "Pricing",
+    "main_title": "Explain the types of promotion (i.e., institutional, product)",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:001",
+    "topic_area": "Pricing",
+    "main_title": "Explain the role of promotion as a marketing function",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PM:003",
+    "topic_area": "Promotion",
+    "main_title": "Explain the concept of product mix",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  },
+  {
+    "card_id": "SE:017",
+    "topic_area": "Promotion",
+    "main_title": "Explain the nature and scope of the selling function",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "CS"
+  },
+  {
+    "card_id": "PR:252",
+    "topic_area": "Selling",
+    "main_title": "Identify types of public - relations activities",
+    "cluster_tag": "Entrepreneurship",
+    "difficulty_label": "SP"
+  }
+]

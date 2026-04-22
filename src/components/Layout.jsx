@@ -1,24 +1,51 @@
-import { Link, Outlet } from 'react-router-dom';
+import { Link, Outlet, useLocation } from 'react-router-dom';
 
 export default function Layout() {
+  const location = useLocation();
+  const path = location.pathname;
+
+  const isActive = (to) => {
+    if (to === '/') return path === '/';
+    return path.startsWith(to);
+  };
+
+  const navLinkClass = (to) =>
+    isActive(to)
+      ? "text-[#0059a4] dark:text-[#0072ce] border-b-2 border-[#0059a4] pb-1 font-['Manrope'] font-bold tracking-tight"
+      : "text-slate-600 dark:text-slate-400 font-medium hover:text-[#0059a4] transition-colors font-['Manrope'] tracking-tight";
+
+  const sidebarLinkClass = (to) =>
+    isActive(to)
+      ? "flex items-center gap-3 px-3 py-2 bg-white dark:bg-slate-900 text-[#0059a4] font-semibold rounded-lg shadow-sm transition-transform duration-200"
+      : "flex items-center gap-3 px-3 py-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 hover:translate-x-1 transition-transform duration-200 rounded-lg group";
+
+  const mobileNavClass = (to) =>
+    isActive(to)
+      ? "flex flex-col items-center gap-1 text-primary"
+      : "flex flex-col items-center gap-1 text-slate-400";
+
   return (
     <div className="bg-surface text-on-surface min-h-screen">
       {/* TopAppBar */}
       <header className="bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl border-b border-slate-200/50 dark:border-slate-800/50 shadow-sm dark:shadow-none docked full-width top-0 z-50 sticky">
         <div className="flex items-center justify-between px-6 h-16 w-full max-w-[1440px] mx-auto">
           <div className="flex items-center gap-8">
-            <span className="text-xl font-extrabold text-[#0059a4] dark:text-white font-['Manrope'] tracking-tight text-primary">IHS DECAprep</span>
+            <Link to="/" className="text-xl font-extrabold text-[#0059a4] dark:text-white font-['Manrope'] tracking-tight text-primary">IHS DECAprep</Link>
             <nav className="hidden md:flex gap-6">
-              <Link className="text-[#0059a4] dark:text-[#0072ce] border-b-2 border-[#0059a4] pb-1 font-['Manrope'] font-bold tracking-tight" to="/">Home</Link>
-              <Link className="text-slate-600 dark:text-slate-400 font-medium hover:text-[#0059a4] transition-colors font-['Manrope'] tracking-tight" to="/database">Study</Link>
-              <Link className="text-slate-600 dark:text-slate-400 font-medium hover:text-[#0059a4] transition-colors font-['Manrope'] tracking-tight" to="/simulation">Exams</Link>
-              <Link className="text-slate-600 dark:text-slate-400 font-medium hover:text-[#0059a4] transition-colors font-['Manrope'] tracking-tight" to="/coach">AI Coach</Link>
+              <Link className={navLinkClass('/')} to="/">Home</Link>
+              <Link className={navLinkClass('/database')} to="/database">Study</Link>
+              <Link className={navLinkClass('/simulation')} to="/simulation">Exams</Link>
+              <Link className={navLinkClass('/roleplays')} to="/roleplays">Roleplays</Link>
+              <Link className={navLinkClass('/coach')} to="/coach">AI Coach</Link>
             </nav>
           </div>
           <div className="flex items-center gap-4">
             <button className="p-2 hover:bg-slate-50 dark:hover:bg-slate-800/50 rounded-full transition-colors">
               <span className="material-symbols-outlined text-slate-600" data-icon="notifications">notifications</span>
             </button>
+            <Link to="/onboarding" className="p-2 hover:bg-slate-50 dark:hover:bg-slate-800/50 rounded-full transition-colors" title="Setup Wizard">
+              <span className="material-symbols-outlined text-slate-600">tune</span>
+            </Link>
             <div className="h-8 w-8 rounded-full bg-slate-200 overflow-hidden border border-slate-200">
               <img alt="Student Profile" data-alt="professional portrait" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCgQJbhY530jMQHgJ2TpHvQDonLvafW8ysMmwA9hrvg3gzxkcHYzvAn8kbyvJhURxmElSjZbzmbTQvTeT67c6D3EAgk587N-XX3IX4zBAF3ImO_P6XsEPl0SUK437yAbNsCwYYQICbXFGbjg9OxxZLZSUiWS9FxDa33c08vcfI7irRbr0ySclBRbtQJGFrzJGzPqXPhX-deXUlV4xDi82WDGfXY-mUS0-4xiDX1ujtyDVRhVOSAYywjpp9X9f0NQQiJycyM8o_K3zk"/>
             </div>
@@ -33,29 +60,37 @@ export default function Layout() {
           <p className="text-xs text-slate-500">Professional Track</p>
         </div>
         <nav className="flex-1 space-y-1">
-          <Link className="flex items-center gap-3 px-3 py-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 hover:translate-x-1 transition-transform duration-200 rounded-lg group" to="/database">
-            <span className="material-symbols-outlined group-hover:text-[#0059a4]" data-icon="database">database</span>
+          <Link className={sidebarLinkClass('/database')} to="/database">
+            <span className={`material-symbols-outlined ${isActive('/database') ? 'text-[#0059a4]' : 'group-hover:text-[#0059a4]'}`} data-icon="database">database</span>
             <span className="font-['Public_Sans'] text-sm">PI Database</span>
           </Link>
-          <Link className="flex items-center gap-3 px-3 py-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 hover:translate-x-1 transition-transform duration-200 rounded-lg group" to="/">
-            <span className="material-symbols-outlined group-hover:text-[#0059a4]" data-icon="workspaces">workspaces</span>
+          <Link className={sidebarLinkClass('/clusters')} to="/clusters">
+            <span className={`material-symbols-outlined ${isActive('/clusters') ? 'text-[#0059a4]' : 'group-hover:text-[#0059a4]'}`} data-icon="workspaces">workspaces</span>
             <span className="font-['Public_Sans'] text-sm">Career Clusters</span>
           </Link>
-          <Link className="flex items-center gap-3 px-3 py-2 bg-white dark:bg-slate-900 text-[#0059a4] font-semibold rounded-lg shadow-sm transition-transform duration-200" to="/">
-            <span className="material-symbols-outlined" data-icon="analytics">analytics</span>
-            <span className="font-['Public_Sans'] text-sm">Learning Analytics</span>
+          <Link className={sidebarLinkClass('/analytics')} to="/analytics">
+            <span className={`material-symbols-outlined ${isActive('/analytics') ? 'text-[#0059a4]' : 'group-hover:text-[#0059a4]'}`} data-icon="analytics">analytics</span>
+            <span className="font-['Public_Sans'] text-sm">Analytics</span>
+          </Link>
+          <Link className={sidebarLinkClass('/roleplays')} to="/roleplays">
+            <span className={`material-symbols-outlined ${isActive('/roleplays') ? 'text-[#0059a4]' : 'group-hover:text-[#0059a4]'}`} data-icon="theater_comedy">theater_comedy</span>
+            <span className="font-['Public_Sans'] text-sm">Roleplay Bank</span>
+          </Link>
+          <Link className={sidebarLinkClass('/onboarding')} to="/onboarding">
+            <span className={`material-symbols-outlined ${isActive('/onboarding') ? 'text-[#0059a4]' : 'group-hover:text-[#0059a4]'}`} data-icon="rocket_launch">rocket_launch</span>
+            <span className="font-['Public_Sans'] text-sm">Onboarding</span>
           </Link>
         </nav>
         <div className="mt-auto space-y-1 pt-4 border-t border-slate-200/60">
           <button className="w-full mb-4 bg-gradient-to-br from-primary to-primary-container text-white py-2 px-4 rounded-lg text-sm font-bold shadow-md hover:opacity-90 transition-opacity">
             Upgrade to Pro
           </button>
-          <Link className="flex items-center gap-3 px-3 py-2 text-slate-500 hover:bg-slate-100 rounded-lg transition-colors" to="/">
-            <span className="material-symbols-outlined" data-icon="settings">settings</span>
+          <Link className={sidebarLinkClass('/settings')} to="/settings">
+            <span className={`material-symbols-outlined ${isActive('/settings') ? 'text-[#0059a4]' : ''}`} data-icon="settings">settings</span>
             <span className="text-sm">Settings</span>
           </Link>
-          <Link className="flex items-center gap-3 px-3 py-2 text-slate-500 hover:bg-slate-100 rounded-lg transition-colors" to="/">
-            <span className="material-symbols-outlined" data-icon="help">help</span>
+          <Link className={sidebarLinkClass('/support')} to="/support">
+            <span className={`material-symbols-outlined ${isActive('/support') ? 'text-[#0059a4]' : ''}`} data-icon="help">help</span>
             <span className="text-sm">Support</span>
           </Link>
         </div>
@@ -65,21 +100,25 @@ export default function Layout() {
 
       {/* Bottom Nav for Mobile */}
       <nav className="md:hidden fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 h-16 flex items-center justify-around px-4 z-50">
-        <Link className="flex flex-col items-center gap-1 text-primary" to="/">
-          <span className="material-symbols-outlined" data-icon="home" data-weight="fill" style={{ fontVariationSettings: "'FILL' 1" }}>home</span>
+        <Link className={mobileNavClass('/')} to="/">
+          <span className="material-symbols-outlined" data-icon="home" data-weight="fill" style={isActive('/') ? { fontVariationSettings: "'FILL' 1" } : {}}>home</span>
           <span className="text-[10px] font-bold">Home</span>
         </Link>
-        <Link className="flex flex-col items-center gap-1 text-slate-400" to="/database">
+        <Link className={mobileNavClass('/database')} to="/database">
           <span className="material-symbols-outlined" data-icon="menu_book">menu_book</span>
           <span className="text-[10px] font-bold">Study</span>
         </Link>
-        <Link className="flex flex-col items-center gap-1 text-slate-400" to="/coach">
+        <Link className={mobileNavClass('/roleplays')} to="/roleplays">
+          <span className="material-symbols-outlined" data-icon="theater_comedy">theater_comedy</span>
+          <span className="text-[10px] font-bold">Roleplays</span>
+        </Link>
+        <Link className={mobileNavClass('/coach')} to="/coach">
           <span className="material-symbols-outlined" data-icon="psychology">psychology</span>
           <span className="text-[10px] font-bold">AI Coach</span>
         </Link>
-        <Link className="flex flex-col items-center gap-1 text-slate-400" to="/">
-          <span className="material-symbols-outlined" data-icon="person">person</span>
-          <span className="text-[10px] font-bold">Profile</span>
+        <Link className={mobileNavClass('/onboarding')} to="/onboarding">
+          <span className="material-symbols-outlined" data-icon="person">tune</span>
+          <span className="text-[10px] font-bold">Setup</span>
         </Link>
       </nav>
     </div>
